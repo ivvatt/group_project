@@ -25,7 +25,7 @@ def read_header(file="h.txt"):
 def process_csv(file, header):
     out=[]
     stdin = file == "-"
-    fd = sys.stdin if stdin else codecs.open(file, "r", "UTF-8")
+    fd = sys.stdin if stdin else codecs.open('years/' + file, "r", "UTF-8")
     reader = csv.reader(fd)
     for nr, row in enumerate(reader):
         logging.debug("%d fields in line %d", len(row), nr)
@@ -44,15 +44,16 @@ def process_csv(file, header):
     return out
 
 if __name__ == "__main__":
-    p =argparse.ArgumentParser()
-    p.add_argument("raw", nargs="*", default=["-"])
-    p.add_argument("--header", type=str, default="h.txt")
-    p.add_argument("--debug", action="store_true")
-    args = p.parse_args()
-    if args.debug:
-        logging.basicConfig(level=logging.INFO)
-    header = read_header(args.header)
+    header = read_header()
     out = []
-    for file in args.raw:
-        out += process_csv(file, header)
-    print(json.dumps(out, indent=4, ensure_ascii=False))
+    for year in range(1800, 1900):
+        data = process_csv(str(year), header)
+        for person in data:
+            if 'description' in person and "scientist" in str(person["description"]):
+                out.append(person)
+
+
+with open('scientists_1800-1900.json', 'w', encoding='utf-8') as file: #w = writing; r = reading (read-only file); output is in another file named 'output.json'
+    json.dump(out, file, indent=4)
+    #json.dump(out, file, indent=4, ensure_ascii=False)
+
