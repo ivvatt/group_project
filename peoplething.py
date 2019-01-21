@@ -10,10 +10,7 @@ with open ('', encoding='utf-8-sig') as file:
     people = json.load(file)
     for person in people:
         #select all entries for birth year
-        if "Afghanistan" in conflict['country']:
             #select all entries for cause of death
-            if conflict['year'] == 1998 or conflict['year'] == 2004:
-                if 'Taleban' in conflict['side_b'] or 'UIFSA' in conflict['side_b']:
                     people.append(person)
 
 
