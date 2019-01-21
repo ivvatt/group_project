@@ -44,28 +44,27 @@ def process_csv(file, header):
         fd.close()
     return out
 
+#selecting data for the middle ages
 if __name__ == "__main__":
     header = read_header()
-    middle_ages = []
-    #philosophers = []
-    for year in range(400, 1300): #middle ages
-        padded_year = ('0000' + str(year))[-4:]
+    middle_ages = [] #create an empty list for the middle ages
+    for year in range(400, 1300): #middle ages years
+        padded_year = ('0000' + str(year))[-4:] #add 0's in front of numbers
         if os.path.exists('years/'+padded_year): 
             data = process_csv(padded_year, header)
             for person in data:
-                if 'deathCause_label' in person: 
-                    if 'description' in person:
-                        middle_ages.append(person)
-
-with open('middle_ages.json', 'w', encoding='utf-8') as file: #w = writing; r = reading (read-only file); output is in another file named 'output.json'
+                if 'deathCause_label' in person: #filter for death cause
+                    if 'description' in person: #filter for profession
+                        middle_ages.append(person) #add filtered info to list
+#save in a json file (list of dictionaries)
+with open('middle_ages.json', 'w', encoding='utf-8') as file: #w = writing
     json.dump(middle_ages, file, indent=4)
-    #json.dump(out, file, indent=4, ensure_ascii=False)
 
+#selecting data for the renaissance
 if __name__ == "__main__":
     header = read_header()
     renaissance = []
-    #philosophers = []
-    for year in range(1300, 1600): #renaissance
+    for year in range(1300, 1600): 
         padded_year = ('0000' + str(year))[-4:]
         if os.path.exists('years/'+padded_year): 
             data = process_csv(padded_year, header)
@@ -73,31 +72,32 @@ if __name__ == "__main__":
                 if 'deathCause_label' in person: 
                     if 'description' in person:
                         renaissance.append(person)
-
-with open('renaissance.json', 'w', encoding='utf-8') as file: #w = writing; r = reading (read-only file); output is in another file named 'output.json'
+#save in a json file
+with open('renaissance.json', 'w', encoding='utf-8') as file: 
     json.dump(renaissance, file, indent=4)
 
+#selecing data for the enlightenment + industrial revolution
 if __name__ == "__main__":
     header = read_header()
     enlight_industrial = []
-    #philosophers = []
-    for year in range(1700, 1900): #enlightenment + industrial revolution
+    for year in range(1700, 1900): 
         padded_year = ('0000' + str(year))[-4:]
         if os.path.exists('years/'+padded_year): 
             data = process_csv(padded_year, header)
             for person in data:
                 if 'deathCause_label' in person: 
                     if 'description' in person:
-                        enlight_industrial.append(person)
-
-with open('enlight_industrial.json', 'w', encoding='utf-8') as file: #w = writing; r = reading (read-only file); output is in another file named 'output.json'
+                        if 'deathYear' in person: #filtering for death year (had a problem with that)
+                            enlight_industrial.append(person)
+#save in a json file
+with open('enlight_industrial.json', 'w', encoding='utf-8') as file: 
     json.dump(enlight_industrial, file, indent=4)
 
+#selecting data for the modern era 
 if __name__ == "__main__":
     header = read_header()
     modern = []
-    #philosophers = []
-    for year in range(1900, 2015): #modern
+    for year in range(1900, 2015): 
         padded_year = ('0000' + str(year))[-4:]
         if os.path.exists('years/'+padded_year): 
             data = process_csv(padded_year, header)
@@ -105,13 +105,13 @@ if __name__ == "__main__":
                 if 'deathCause_label' in person: 
                     if 'description' in person:
                         modern.append(person)
-
-with open('modern.json', 'w', encoding='utf-8') as file: #w = writing; r = reading (read-only file); output is in another file named 'output.json'
+#save in a json file
+with open('modern.json', 'w', encoding='utf-8') as file: 
     json.dump(modern, file, indent=4)
 
-
 #make it into a csv file
-with open('middle_ages.csv', 'w', newline='', encoding='utf-8') as file: #middle ages 
+#middle ages
+with open('middle_ages.csv', 'w', newline='', encoding='utf-8') as file: 
     filewriter = csv.writer(file)
     filewriter.writerow(['birthYear', "birthDate", "deathYear", "deathCause_label", "profession"])
     for person in middle_ages:
@@ -124,7 +124,7 @@ with open('renaissance.csv', 'w', newline='', encoding='utf-8') as file:
     for person in renaissance:
         filewriter.writerow([person['birthYear'], person['birthDate'], person['deathYear'], person['deathCause_label'], person['description']])
 
-#enlight+industrial revol
+#enlightenment + industrial revolution
 with open('enlight_industrial.csv', 'w', newline='', encoding='utf-8') as file:
     filewriter = csv.writer(file)
     filewriter.writerow(['birthYear', "birthDate", "deathYear", "deathCause_label", "profession"])
@@ -137,4 +137,3 @@ with open('modern.csv', 'w', newline='', encoding='utf-8') as file:
     filewriter.writerow(['birthYear', "birthDate", "deathYear", "deathCause_label", "profession"])
     for person in modern:
         filewriter.writerow([person['birthYear'], person['birthDate'], person['deathYear'], person['deathCause_label'], person['description']])
-
