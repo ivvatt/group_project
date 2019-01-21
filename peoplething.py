@@ -43,7 +43,7 @@ def process_csv(file, header):
     if not stdin:
         fd.close()
     return out
-
+'''
 #selecting data for the middle ages
 if __name__ == "__main__":
     header = read_header()
@@ -108,7 +108,24 @@ if __name__ == "__main__":
 #save in a json file
 with open('modern.json', 'w', encoding='utf-8') as file: 
     json.dump(modern, file, indent=4)
-
+'''
+#selecting data for all years
+if __name__ == "__main__":
+    header = read_header()
+    all_years = []
+    for year in range(400, 2015): 
+        padded_year = ('0000' + str(year))[-4:]
+        if os.path.exists('years/'+padded_year): 
+            data = process_csv(padded_year, header)
+            for person in data:
+                if 'deathCause_label' in person: 
+                    if 'description' in person:
+                        if 'deathYear' in person:
+                            all_years.append(person)
+#save in a json file
+with open('all_years.json', 'w', encoding='utf-8') as file: 
+    json.dump(all_years, file, indent=4)
+'''
 #make it into a csv file
 #middle ages
 with open('middle_ages.csv', 'w', newline='', encoding='utf-8') as file: 
@@ -136,4 +153,11 @@ with open('modern.csv', 'w', newline='', encoding='utf-8') as file:
     filewriter = csv.writer(file)
     filewriter.writerow(['birthYear', "birthDate", "deathYear", "deathCause_label", "profession"])
     for person in modern:
+        filewriter.writerow([person['birthYear'], person['birthDate'], person['deathYear'], person['deathCause_label'], person['description']])
+'''
+#one csv for all years
+with open('all_years.csv', 'w', newline='', encoding='utf-8') as file:
+    filewriter = csv.writer(file)
+    filewriter.writerow(['birthYear', "birthDate", "deathYear", "deathCause_label", "profession"])
+    for person in all_years:
         filewriter.writerow([person['birthYear'], person['birthDate'], person['deathYear'], person['deathCause_label'], person['description']])
