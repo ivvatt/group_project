@@ -54,7 +54,7 @@ if __name__ == "__main__":
             data = process_csv(padded_year, header)
             for person in data:
                 if 'deathCause_label' in person: 
-                    #if 'description' in person and "scientist" in str(person["description"]):
+                    if 'description' in person:
                         middle_ages.append(person)
 
 with open('middle_ages.json', 'w', encoding='utf-8') as file: #w = writing; r = reading (read-only file); output is in another file named 'output.json'
@@ -71,7 +71,7 @@ if __name__ == "__main__":
             data = process_csv(padded_year, header)
             for person in data:
                 if 'deathCause_label' in person: 
-                    #if 'description' in person and "scientist" in str(person["description"]):
+                    if 'description' in person:
                         renaissance.append(person)
 
 with open('renaissance.json', 'w', encoding='utf-8') as file: #w = writing; r = reading (read-only file); output is in another file named 'output.json'
@@ -87,7 +87,7 @@ if __name__ == "__main__":
             data = process_csv(padded_year, header)
             for person in data:
                 if 'deathCause_label' in person: 
-                    #if 'description' in person and "scientist" in str(person["description"]):
+                    if 'description' in person:
                         enlight_industrial.append(person)
 
 with open('enlight_industrial.json', 'w', encoding='utf-8') as file: #w = writing; r = reading (read-only file); output is in another file named 'output.json'
@@ -103,10 +103,38 @@ if __name__ == "__main__":
             data = process_csv(padded_year, header)
             for person in data:
                 if 'deathCause_label' in person: 
-                    #if 'description' in person and "scientist" in str(person["description"]):
+                    if 'description' in person:
                         modern.append(person)
 
 with open('modern.json', 'w', encoding='utf-8') as file: #w = writing; r = reading (read-only file); output is in another file named 'output.json'
     json.dump(modern, file, indent=4)
 
+
+#make it into a csv file
+with open('middle_ages.csv', 'w', newline='', encoding='utf-8') as file: #middle ages 
+    filewriter = csv.writer(file)
+    filewriter.writerow(['birthYear', "birthDate", "deathYear", "deathCause_label", "profession"])
+    for person in middle_ages:
+        filewriter.writerow([person['birthYear'], person['birthDate'], person['deathYear'], person['deathCause_label'], person['description']])
+
+#renaissance
+with open('renaissance.csv', 'w', newline='', encoding='utf-8') as file:
+    filewriter = csv.writer(file)
+    filewriter.writerow(['birthYear', "birthDate", "deathYear", "deathCause_label", "profession"])
+    for person in renaissance:
+        filewriter.writerow([person['birthYear'], person['birthDate'], person['deathYear'], person['deathCause_label'], person['description']])
+
+#enlight+industrial revol
+with open('enlight_industrial.csv', 'w', newline='', encoding='utf-8') as file:
+    filewriter = csv.writer(file)
+    filewriter.writerow(['birthYear', "birthDate", "deathYear", "deathCause_label", "profession"])
+    for person in enlight_industrial:
+        filewriter.writerow([person['birthYear'], person['birthDate'], person['deathYear'], person['deathCause_label'], person['description']])
+
+#modern
+with open('modern.csv', 'w', newline='', encoding='utf-8') as file:
+    filewriter = csv.writer(file)
+    filewriter.writerow(['birthYear', "birthDate", "deathYear", "deathCause_label", "profession"])
+    for person in modern:
+        filewriter.writerow([person['birthYear'], person['birthDate'], person['deathYear'], person['deathCause_label'], person['description']])
 
