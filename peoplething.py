@@ -11,6 +11,7 @@
 ## In python3,
 
 import argparse, json, logging, csv, re, sys, codecs
+import os.path
 
 floatre = re.compile("^\d+\.\d+$")
 intre = re.compile("^\d+$")
@@ -45,15 +46,67 @@ def process_csv(file, header):
 
 if __name__ == "__main__":
     header = read_header()
-    out = []
-    for year in range(1800, 1900):
-        data = process_csv(str(year), header)
-        for person in data:
-            if 'description' in person and "scientist" in str(person["description"]):
-                out.append(person)
+    middle_ages = []
+    #philosophers = []
+    for year in range(400, 1300): #middle ages
+        padded_year = ('0000' + str(year))[-4:]
+        if os.path.exists('years/'+padded_year): 
+            data = process_csv(padded_year, header)
+            for person in data:
+                if 'deathCause_label' in person: 
+                    #if 'description' in person and "scientist" in str(person["description"]):
+                        middle_ages.append(person)
 
-
-with open('scientists_1800-1900.json', 'w', encoding='utf-8') as file: #w = writing; r = reading (read-only file); output is in another file named 'output.json'
-    json.dump(out, file, indent=4)
+with open('middle_ages.json', 'w', encoding='utf-8') as file: #w = writing; r = reading (read-only file); output is in another file named 'output.json'
+    json.dump(middle_ages, file, indent=4)
     #json.dump(out, file, indent=4, ensure_ascii=False)
+
+if __name__ == "__main__":
+    header = read_header()
+    renaissance = []
+    #philosophers = []
+    for year in range(1300, 1600): #renaissance
+        padded_year = ('0000' + str(year))[-4:]
+        if os.path.exists('years/'+padded_year): 
+            data = process_csv(padded_year, header)
+            for person in data:
+                if 'deathCause_label' in person: 
+                    #if 'description' in person and "scientist" in str(person["description"]):
+                        renaissance.append(person)
+
+with open('renaissance.json', 'w', encoding='utf-8') as file: #w = writing; r = reading (read-only file); output is in another file named 'output.json'
+    json.dump(renaissance, file, indent=4)
+
+if __name__ == "__main__":
+    header = read_header()
+    enlight_industrial = []
+    #philosophers = []
+    for year in range(1700, 1900): #enlightenment + industrial revolution
+        padded_year = ('0000' + str(year))[-4:]
+        if os.path.exists('years/'+padded_year): 
+            data = process_csv(padded_year, header)
+            for person in data:
+                if 'deathCause_label' in person: 
+                    #if 'description' in person and "scientist" in str(person["description"]):
+                        enlight_industrial.append(person)
+
+with open('enlight_industrial.json', 'w', encoding='utf-8') as file: #w = writing; r = reading (read-only file); output is in another file named 'output.json'
+    json.dump(enlight_industrial, file, indent=4)
+
+if __name__ == "__main__":
+    header = read_header()
+    modern = []
+    #philosophers = []
+    for year in range(1900, 2015): #modern
+        padded_year = ('0000' + str(year))[-4:]
+        if os.path.exists('years/'+padded_year): 
+            data = process_csv(padded_year, header)
+            for person in data:
+                if 'deathCause_label' in person: 
+                    #if 'description' in person and "scientist" in str(person["description"]):
+                        modern.append(person)
+
+with open('modern.json', 'w', encoding='utf-8') as file: #w = writing; r = reading (read-only file); output is in another file named 'output.json'
+    json.dump(modern, file, indent=4)
+
 
