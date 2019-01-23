@@ -1,0 +1,173 @@
+birthYear,birthDate,deathYear,deathCause_label,profession
+1750-01-01T00:00:00+02:00,1750-01-01T00:00:00+02:00,1804-01-01T00:00:00+02:00,pneumonia,Canadian businessman entrepreneur
+1783-01-01T00:00:00+02:00,1783-01-01T00:00:00+02:00,1845-01-01T00:00:00+02:00,accidents_murder_and_war,Illinois pioneer landowner and businessman
+1792-01-01T00:00:00+02:00,1792-06-08,1859-01-01T00:00:00+02:00,other_diseases,American businessman
+1807-01-01T00:00:00+02:00,{1807-01-01T00:00:00+02:00|1807-01-03},1896-01-01T00:00:00+02:00,natural_death,businessman
+1815-01-01T00:00:00+02:00,1815-01-27,1891-01-01T00:00:00+02:00,cerebral_problems,American businessperson
+1816-01-01T00:00:00+02:00,1816-11-06,1901-01-01T00:00:00+02:00,cerebral_problems,American businessman
+1817-01-01T00:00:00+02:00,1817-07-14,1869-01-01T00:00:00+02:00,other_diseases,American businessman
+1821-01-01T00:00:00+02:00,1821-02-21,1871-01-01T00:00:00+02:00,other_diseases,American businessman
+1824-01-01T00:00:00+02:00,1824-11-03,1859-01-01T00:00:00+02:00,pneumonia,American businessman
+1826-01-01T00:00:00+02:00,1826-12-22,1897-01-01T00:00:00+02:00,cerebral_problems,Merchant investor
+1829-01-01T00:00:00+02:00,1829-07-12,1892-01-01T00:00:00+02:00,cerebral_problems,American businessman yachtsman and racehorse owner/breeder
+1834-01-01T00:00:00+02:00,1834-01-01T00:00:00+02:00,1907-01-01T00:00:00+02:00,pneumonia,Irish-Canadian businessman
+1834-01-01T00:00:00+02:00,1834-11-21,1916-01-01T00:00:00+02:00,cerebral_problems,American business woman
+1835-01-01T00:00:00+02:00,1835-08-11,1891-01-01T00:00:00+02:00,other_diseases,American businessman
+1835-01-01T00:00:00+02:00,1835-11-25,1919-01-01T00:00:00+02:00,other_respiratory_problems,American businessman and philanthropist
+1836-01-01T00:00:00+02:00,1836-01-01T00:00:00+02:00,1895-01-01T00:00:00+02:00,cerebral_problems,American businessman
+1836-01-01T00:00:00+02:00,1836-06-23,1898-01-01T00:00:00+02:00,other_diseases,English businessman and politician
+1836-01-01T00:00:00+02:00,1836-02-21,1889-01-01T00:00:00+02:00,cerebral_problems,Businessperson
+1838-01-01T00:00:00+02:00,1838-07-08,1898-01-01T00:00:00+02:00,cancer,Union Army officer businessman philanthropist
+1842-01-01T00:00:00+02:00,1842-01-01T00:00:00+02:00,1920-01-01T00:00:00+02:00,cardiovascular_problems,American businessman
+1844-01-01T00:00:00+02:00,1844-10-11,1919-01-01T00:00:00+02:00,pneumonia,American businessman (food processing)
+1845-01-01T00:00:00+02:00,{1845-01-01T00:00:00+02:00|1845-03-08},1905-01-01T00:00:00+02:00,other_diseases,American businessman
+1847-01-01T00:00:00+02:00,1847-02-04,1929-01-01T00:00:00+02:00,suicide,American businessman
+1849-01-01T00:00:00+02:00,1849-06-01,1918-01-01T00:00:00+02:00,accidents_murder_and_war,American businessman
+1849-01-01T00:00:00+02:00,1849-05-27,1938-01-01T00:00:00+02:00,cardiovascular_problems,German-American businessperson
+1850-01-01T00:00:00+02:00,1850-09-23,1914-01-01T00:00:00+02:00,cardiovascular_problems,Businessperson
+1854-01-01T00:00:00+02:00,1854-10-18,1930-01-01T00:00:00+02:00,cardiovascular_problems,American businessman
+1856-01-01T00:00:00+02:00,1856-08-12,1917-01-01T00:00:00+02:00,cardiovascular_problems,American businessman
+1857-01-01T00:00:00+02:00,1857-06-29,1908-01-01T00:00:00+02:00,other_respiratory_problems,American businessman
+1857-01-01T00:00:00+02:00,1857-01-05,1924-01-01T00:00:00+02:00,pneumonia,American businessman
+{1858-01-01T00:00:00+02:00|1864-01-01T00:00:00+02:00},{1858-01-11|1864-01-11},1947-01-01T00:00:00+02:00,other_respiratory_problems,American businessperson and British retail magnate
+{1858-01-01T00:00:00+02:00|1859-01-01T00:00:00+02:00},{1858-01-15|1859-01-15},1912-01-01T00:00:00+02:00,other_diseases,Writer historian real estate investor
+1860-01-01T00:00:00+02:00,1860-01-24,1938-01-01T00:00:00+02:00,cardiovascular_problems,American businesspeople
+1862-01-01T00:00:00+02:00,1862-08-10,1906-01-01T00:00:00+02:00,cardiovascular_problems,American businessman
+{1862-01-01T00:00:00+02:00|1863-01-01T00:00:00+02:00},{1862-04-18|1863-01-01T00:00:00+02:00},1909-01-01T00:00:00+02:00,other_respiratory_problems,Owner of the National League's Boston Doves
+1863-01-01T00:00:00+02:00,1863-01-01T00:00:00+02:00,1930-01-01T00:00:00+02:00,other_respiratory_problems,New York restaurateur and owner of the popular Broadway restaurant-cabaret club Churchill's.
+1864-01-01T00:00:00+02:00,1864-05-17,1944-01-01T00:00:00+02:00,cardiovascular_problems,American businessman
+1864-01-01T00:00:00+02:00,1864-10-25,1920-01-01T00:00:00+02:00,pneumonia,American businessman
+1864-01-01T00:00:00+02:00,1864-10-25,1920-01-01T00:00:00+02:00,other_diseases,American businessman
+1866-01-01T00:00:00+02:00,1866-02-26,1933-01-01T00:00:00+02:00,cardiovascular_problems,American businessman and railway executive
+{1866-01-01T00:00:00+02:00|1886-01-01T00:00:00+02:00},1866-01-01T00:00:00+02:00,1953-01-01T00:00:00+02:00,other_diseases,Russian businesswoman
+1866-01-01T00:00:00+02:00,1866-01-01T00:00:00+02:00,1928-01-01T00:00:00+02:00,other_diseases,American businessman
+1868-01-01T00:00:00+02:00,1868-05-17,1920-01-01T00:00:00+02:00,pneumonia,American businessman
+1868-01-01T00:00:00+02:00,1868-05-17,1920-01-01T00:00:00+02:00,other_diseases,American businessman
+1868-01-01T00:00:00+02:00,1868-05-17,1920-01-01T00:00:00+02:00,other_diseases,American businessman
+1870-01-01T00:00:00+02:00,{1870-05-21|1870-10-20},1957-01-01T00:00:00+02:00,cardiovascular_problems,Foounder of Coleman Company; mayor of Wichita Kansas
+1872-01-01T00:00:00+02:00,1872-04-29,1930-01-01T00:00:00+02:00,pneumonia,American businessman and horse breeder
+1872-01-01T00:00:00+02:00,1872-06-09,1950-01-01T00:00:00+02:00,cerebral_problems,American businessman and polo player
+1872-01-01T00:00:00+02:00,1872-01-01,1918-01-01T00:00:00+02:00,other_diseases,American businessperson
+1873-01-01T00:00:00+02:00,1873-10-09,1939-01-01T00:00:00+02:00,other_diseases,American businessman
+1873-01-01T00:00:00+02:00,1873-10-09,1939-01-01T00:00:00+02:00,other_diseases,American businessman
+1875-01-01T00:00:00+02:00,1875-07-26,1965-01-01T00:00:00+02:00,cardiovascular_problems,American businessman
+1875-01-01T00:00:00+02:00,1875-12-18,1930-01-01T00:00:00+02:00,other_diseases,American businessman
+1880-01-01T00:00:00+02:00,1880-03-02,1932-01-01T00:00:00+02:00,suicide,Swedish businessperson
+1882-01-01T00:00:00+02:00,1882-09-03,1955-01-01T00:00:00+02:00,cardiovascular_problems,Canadian racehorse owner
+1885-01-01T00:00:00+02:00,1885-07-23,1935-01-01T00:00:00+02:00,pneumonia,Georigan noble and American businessman
+1888-01-01T00:00:00+02:00,1888-12-19,1962-01-01T00:00:00+02:00,cardiovascular_problems,American racehorse owner and breeder
+1888-01-01T00:00:00+02:00,1888-05-25,1942-01-01T00:00:00+02:00,other_diseases,Estonian businessman
+1888-01-01T00:00:00+02:00,1888-05-06,1972-01-01T00:00:00+02:00,cerebral_problems,Lawyer and racehorse owner/breeder
+1890-01-01T00:00:00+02:00,1890-04-06,1939-01-01T00:00:00+02:00,other_diseases,Dutch businessman
+1890-01-01T00:00:00+02:00,1890-09-09,1980-01-01T00:00:00+02:00,cancer,United States entrepreneur and businessman
+1890-01-01T00:00:00+02:00,1890-09-09,1980-01-01T00:00:00+02:00,pneumonia,United States entrepreneur and businessman
+1891-01-01T00:00:00+02:00,1891-01-01T00:00:00+02:00,1962-01-01T00:00:00+02:00,accidents_murder_and_war,American businessman
+1893-01-01T00:00:00+02:00,1893-09-28,1956-01-01T00:00:00+02:00,cancer,American businessman
+{1893-01-01T00:00:00+02:00|1894-01-01T00:00:00+02:00},{1893-07-11|1894-07-11},{1932-01-01T00:00:00+02:00|1933-01-01T00:00:00+02:00},accidents_murder_and_war,American businessman
+1894-01-01T00:00:00+02:00,1894-07-28,1969-01-01T00:00:00+02:00,cardiovascular_problems,Founder of the Hamilton Standard Company
+1894-01-01T00:00:00+02:00,1894-01-01T00:00:00+02:00,1941-01-01T00:00:00+02:00,accidents_murder_and_war,Croatian businessman and philanthropist
+1895-01-01T00:00:00+02:00,1895-12-05,1973-01-01T00:00:00+02:00,cardiovascular_problems,American businessman
+1895-01-01T00:00:00+02:00,1895-08-25,1987-01-01T00:00:00+02:00,pneumonia,American businessman
+1896-01-01T00:00:00+02:00,1896-01-01T00:00:00+02:00,1961-01-01T00:00:00+02:00,cancer,Owner of Ma Mon Luk
+1897-01-01T00:00:00+02:00,1897-07-11,1973-01-01T00:00:00+02:00,cardiovascular_problems,Dermatologist businessman
+1897-01-01T00:00:00+02:00,1897-06-24,1992-01-01T00:00:00+02:00,cardiovascular_problems,American businessman
+1897-01-01T00:00:00+02:00,1897-07-08,1970-01-01T00:00:00+02:00,cancer,American racehorse owner
+1899-01-01T00:00:00+02:00,1899-06-27,1981-01-01T00:00:00+02:00,cerebral_problems,American businessman
+1901-01-01T00:00:00+02:00,1901-01-23,1983-01-01T00:00:00+02:00,cancer,American sports businessman
+1902-01-01T00:00:00+02:00,1902-07-28,1970-01-01T00:00:00+02:00,cerebral_problems,American businessman
+1902-01-01T00:00:00+02:00,1902-01-14,1949-01-01T00:00:00+02:00,suicide,Loudspeaker designer audio company founder
+1902-01-01T00:00:00+02:00,1902-09-01,1976-01-01T00:00:00+02:00,cardiovascular_problems,American businessman
+1902-01-01T00:00:00+02:00,1902-06-26,1978-01-01T00:00:00+02:00,cancer,American businessman and inventor
+1903-01-01T00:00:00+02:00,1903-01-01T00:00:00+02:00,1994-01-01T00:00:00+02:00,cardiovascular_problems,American businessman
+1903-01-01T00:00:00+02:00,1903-09-21,1956-01-01T00:00:00+02:00,cancer,American businessman
+1903-01-01T00:00:00+02:00,1903-10-09,1979-01-01T00:00:00+02:00,cardiovascular_problems,Major League Baseball Owner Business Executive Lawyer
+1904-01-01T00:00:00+02:00,1904-05-30,1990-01-01T00:00:00+02:00,cancer,American businessman
+1904-01-01T00:00:00+02:00,1904-08-18,1996-01-01T00:00:00+02:00,cardiovascular_problems,American businessman
+1905-01-01T00:00:00+02:00,1905-06-27,1996-01-01T00:00:00+02:00,other_respiratory_problems,Businessperson
+1906-01-01T00:00:00+02:00,1906-11-06,1966-01-01T00:00:00+02:00,cardiovascular_problems,American sports businessman
+1907-01-01T00:00:00+02:00,1907-07-16,1995-01-01T00:00:00+02:00,accidents_murder_and_war,American businessman
+1908-01-01T00:00:00+02:00,1908-12-30,1995-01-01T00:00:00+02:00,cerebral_problems,Rcehorse owner
+1908-01-01T00:00:00+02:00,1908-04-11,1997-01-01T00:00:00+02:00,cardiovascular_problems,Japanese businessman
+1908-01-01T00:00:00+02:00,1908-04-28,1979-01-01T00:00:00+02:00,cerebral_problems,American businessman
+1910-01-01T00:00:00+02:00,1910-01-24,1972-01-01T00:00:00+02:00,cancer,Breeder and owner of thoroughbred racehorses
+1911-01-01T00:00:00+02:00,1911-01-01T00:00:00+02:00,1990-01-01T00:00:00+02:00,cardiovascular_problems,Hong Kong businessman
+1911-01-01T00:00:00+02:00,1911-06-29,1996-01-01T00:00:00+02:00,cancer,American businessman
+1911-01-01T00:00:00+02:00,1911-01-02,1943-01-01T00:00:00+02:00,accidents_murder_and_war,American businessman
+1911-01-01T00:00:00+02:00,1911-09-15,2000-01-01T00:00:00+02:00,other_diseases,American businessman
+1912-01-01T00:00:00+02:00,1912-11-25,1997-01-01T00:00:00+02:00,cerebral_problems,American businessman
+1913-01-01T00:00:00+02:00,1913-05-25,1995-01-01T00:00:00+02:00,cancer,American businessman
+1913-01-01T00:00:00+02:00,1913-06-29,1983-01-01T00:00:00+02:00,cancer,American businessman
+1914-01-01T00:00:00+02:00,1914-09-26,{2010-01-01T00:00:00+02:00|2011-01-01T00:00:00+02:00},pneumonia,American author fitness trainer and businessman
+1914-01-01T00:00:00+02:00,1914-06-20,2001-01-01T00:00:00+02:00,cancer,American philanthropist and racehorse owner
+1914-01-01T00:00:00+02:00,1914-04-26,2000-01-01T00:00:00+02:00,cancer,American businessman and racehorse owner
+1915-01-01T00:00:00+02:00,1915-11-02,{2005-01-01T00:00:00+02:00|2015-01-01T00:00:00+02:00},cardiovascular_problems,American film producer and businessman
+1915-01-01T00:00:00+02:00,1915-02-27,1985-01-01T00:00:00+02:00,cardiovascular_problems,American businessman
+1915-01-01T00:00:00+02:00,1915-03-02,2006-01-01T00:00:00+02:00,cancer,American businessman
+1915-01-01T00:00:00+02:00,1915-12-02,2000-01-01T00:00:00+02:00,cerebral_problems,American businessman
+1915-01-01T00:00:00+02:00,1915-10-15,2002-01-01T00:00:00+02:00,cardiovascular_problems,American businessman/race horse owner
+1915-01-01T00:00:00+02:00,1915-06-17,2012-01-01T00:00:00+02:00,natural_death,American businessman; founder chairman and CEO of Cubic Corporation; college baseball basketball football and track athlete; also played early semi-professional football for the Richmond Arrows
+1916-01-01T00:00:00+02:00,1916-04-04,2010-01-01T00:00:00+02:00,other_diseases,American businesswoman and journalist
+1916-01-01T00:00:00+02:00,1916-06-19,1979-01-01T00:00:00+02:00,cardiovascular_problems,American businessman
+1916-01-01T00:00:00+02:00,1916-09-21,1993-01-01T00:00:00+02:00,cancer,American pharmaceutical entrepreneur philanthropist and Major League Baseball team owner
+1916-01-01T00:00:00+02:00,1916-02-29,1999-01-01T00:00:00+02:00,suicide,Founder of U-Haul Company and Amerco Inc.
+1916-01-01T00:00:00+02:00,1916-06-10,2002-01-01T00:00:00+02:00,cancer,American businessman
+1917-01-01T00:00:00+02:00,1917-01-13,2004-01-01T00:00:00+02:00,cardiovascular_problems,Malaysian Australian and Singaporean businessman
+1918-01-01T00:00:00+02:00,1918-05-24,1984-01-01T00:00:00+02:00,cancer,American businessman
+1918-01-01T00:00:00+02:00,1918-01-19,2005-01-01T00:00:00+02:00,cardiovascular_problems,American businessman
+1918-01-01T00:00:00+02:00,1918-02-15,2004-01-01T00:00:00+02:00,cardiovascular_problems,American businessman
+1919-01-01T00:00:00+02:00,1919-02-11,1995-01-01T00:00:00+02:00,pneumonia,Actress and businesswoman
+1919-01-01T00:00:00+02:00,1919-02-11,1995-01-01T00:00:00+02:00,other_respiratory_problems,Actress and businesswoman
+1919-01-01T00:00:00+02:00,1919-12-07,2008-01-01T00:00:00+02:00,cancer,Businessman
+1920-01-01T00:00:00+02:00,1920-10-02,1996-01-01T00:00:00+02:00,cerebral_problems,Former NASCAR team owner
+1921-01-01T00:00:00+02:00,1921-08-08,2013-01-01T00:00:00+02:00,natural_death,American swimmer actress businesswoman
+1921-01-01T00:00:00+02:00,1921-01-29,1990-01-01T00:00:00+02:00,cardiovascular_problems,American businessman
+1921-01-01T00:00:00+02:00,1921-01-26,1999-01-01T00:00:00+02:00,pneumonia,Japanese businessman
+1922-01-01T00:00:00+02:00,1922-07-02,1984-01-01T00:00:00+02:00,cardiovascular_problems,American businessman
+1923-01-01T00:00:00+02:00,1923-06-16,2008-01-01T00:00:00+02:00,cardiovascular_problems,American businessman
+1923-01-01T00:00:00+02:00,1923-11-04,2002-01-01T00:00:00+02:00,pneumonia,Dutch Businessman
+1923-01-01T00:00:00+02:00,1923-02-24,2012-01-01T00:00:00+02:00,cancer,Businessperson
+1924-01-01T00:00:00+02:00,1924-02-22,2003-01-01T00:00:00+02:00,pneumonia,Soldier engineer and race horse owner
+1925-01-01T00:00:00+02:00,1925-01-03,2000-01-01T00:00:00+02:00,cardiovascular_problems,American businessman
+1926-01-01T00:00:00+02:00,1926-11-20,2000-01-01T00:00:00+02:00,cardiovascular_problems,American restaurant owner
+1926-01-01T00:00:00+02:00,1926-11-29,2013-01-01T00:00:00+02:00,cardiovascular_problems,American entrepreneur and businessman
+1926-01-01T00:00:00+02:00,1926-05-05,2003-01-01T00:00:00+02:00,cancer,American actor and baseball club owner
+1927-01-01T00:00:00+02:00,1927-04-16,2008-01-01T00:00:00+02:00,pneumonia,American singer businesswoman
+1927-01-01T00:00:00+02:00,1927-04-16,2008-01-01T00:00:00+02:00,cancer,American singer businesswoman
+1927-01-01T00:00:00+02:00,1927-08-03,2009-01-01T00:00:00+02:00,cancer,American businessman
+1927-01-01T00:00:00+02:00,1927-11-21,2008-01-01T00:00:00+02:00,cancer,American football owner
+1929-01-01T00:00:00+02:00,1929-11-30,2012-01-01T00:00:00+02:00,cardiovascular_problems,Businessman game show host radio/television personality
+1929-01-01T00:00:00+02:00,1929-06-20,2013-01-01T00:00:00+02:00,natural_death,Canadian businessperson
+1930-01-01T00:00:00+02:00,1930-04-07,2009-01-01T00:00:00+02:00,cerebral_problems,French businessman
+1930-01-01T00:00:00+02:00,1930-07-04,2010-01-01T00:00:00+02:00,cardiovascular_problems,American businessman Major League Baseball team owner
+1930-01-01T00:00:00+02:00,1930-01-01T00:00:00+02:00,1973-01-01T00:00:00+02:00,accidents_murder_and_war,American businessman
+1931-01-01T00:00:00+02:00,1931-04-18,2001-01-01T00:00:00+02:00,cancer,American businessman
+1932-01-01T00:00:00+02:00,1932-11-20,2005-01-01T00:00:00+02:00,cancer,American actor and businessman
+1932-01-01T00:00:00+02:00,1932-11-20,2005-01-01T00:00:00+02:00,cancer,American actor and businessman
+1932-01-01T00:00:00+02:00,1932-03-17,2009-01-01T00:00:00+02:00,cancer,American businessman
+1932-01-01T00:00:00+02:00,1932-12-19,2006-01-01T00:00:00+02:00,cancer,Swedish businessman
+1933-01-01T00:00:00+02:00,1933-06-07,2004-01-01T00:00:00+02:00,cancer,Businessperson
+1933-01-01T00:00:00+02:00,1933-04-07,2004-01-01T00:00:00+02:00,cancer,Turkish businessman
+1934-01-01T00:00:00+02:00,1934-12-18,2013-01-01T00:00:00+02:00,cerebral_problems,Businessman
+1935-01-01T00:00:00+02:00,1935-06-25,1998-01-01T00:00:00+02:00,cancer,Turkish businessman
+1935-01-01T00:00:00+02:00,1935-01-01T00:00:00+02:00,2008-01-01T00:00:00+02:00,accidents_murder_and_war,British businessman
+1936-01-01T00:00:00+02:00,1936-11-16,2004-01-01T00:00:00+02:00,cerebral_problems,British businessman
+1936-01-01T00:00:00+02:00,1936-02-02,2007-01-01T00:00:00+02:00,cancer,Irish businessman
+1937-01-01T00:00:00+02:00,1937-07-27,1990-01-01T00:00:00+02:00,cardiovascular_problems,Australian businessman
+1938-01-01T00:00:00+02:00,1938-02-17,1983-01-01T00:00:00+02:00,accidents_murder_and_war,Sri Lankan businessman
+1940-01-01T00:00:00+02:00,1940-08-05,2008-01-01T00:00:00+02:00,cancer,Art dealer; racehorse owner and breeder
+1941-01-01T00:00:00+02:00,1941-09-02,2003-01-01T00:00:00+02:00,cancer,English businessperson
+1941-01-01T00:00:00+02:00,1941-05-16,2003-01-01T00:00:00+02:00,cancer,American businessman
+1942-01-01T00:00:00+02:00,1942-10-23,2007-01-01T00:00:00+02:00,cerebral_problems,Business woman founder of The Body Shop
+1943-01-01T00:00:00+02:00,1943-11-14,2004-01-01T00:00:00+02:00,cardiovascular_problems,American businessman
+1944-01-01T00:00:00+02:00,1944-01-28,2013-01-01T00:00:00+02:00,cerebral_problems,Spanish businesswoman
+1945-01-01T00:00:00+02:00,1945-08-11,1998-01-01T00:00:00+02:00,cerebral_problems,Canadian businessman
+1946-01-01T00:00:00+02:00,{1946-10-08|1946-10-18},2005-01-01T00:00:00+02:00,accidents_murder_and_war,American businessman
+1947-01-01T00:00:00+02:00,1947-01-01T00:00:00+02:00,1999-01-01T00:00:00+02:00,cancer,American businessman
+1948-01-01T00:00:00+02:00,1948-03-30,2010-01-01T00:00:00+02:00,cardiovascular_problems,Swiss businessman
+1949-01-01T00:00:00+02:00,1949-07-26,2013-01-01T00:00:00+02:00,cancer,Businessperson
+1950-01-01T00:00:00+02:00,1950-08-26,2010-01-01T00:00:00+02:00,accidents_murder_and_war,Australian businessman
+1952-01-01T00:00:00+02:00,1952-01-01T00:00:00+02:00,2010-01-01T00:00:00+02:00,cancer,Canadian businessman
+1954-01-01T00:00:00+02:00,1954-11-21,2011-01-01T00:00:00+02:00,cardiovascular_problems,British businessman
+{1963-01-01T00:00:00+02:00|1970-01-01T00:00:00+02:00},{1963-05-29|1970-05-29},2001-01-01T00:00:00+02:00,accidents_murder_and_war,vice president and COO of a Pleasanton California medical devices company Thoratec Corporation
+1963-01-01T00:00:00+02:00,1963-04-25,2004-01-01T00:00:00+02:00,cardiovascular_problems,Turkish businessman
+1970-01-01T00:00:00+02:00,1970-10-20,2011-01-01T00:00:00+02:00,accidents_murder_and_war,British businessman murdered in China
