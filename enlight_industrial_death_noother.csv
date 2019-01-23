@@ -2,219 +2,611 @@ birthYear,birthDate,deathYear,deathCause_label,profession
 1718-01-01T00:00:00+02:00,1718-11-28,1763-01-01T00:00:00+02:00,cancer,Swedish poet and salon hostess
 1718-01-01T00:00:00+02:00,1718-11-28,1763-01-01T00:00:00+02:00,suicide,Swedish poet and salon hostess
 1725-01-01T00:00:00+02:00,1725-12-11,1792-01-01T00:00:00+02:00,natural_death,Virginia politician
+1733-01-01T00:00:00+02:00,1733-01-01T00:00:00+02:00,1773-01-01T00:00:00+02:00,accidents_murder_and_war,Jamaican serial killer
+1734-01-01T00:00:00+02:00,1734-02-18,1793-01-01T00:00:00+02:00,suicide,French viscount and politician
+1742-01-01T00:00:00+02:00,1742-12-06,1806-01-01T00:00:00+02:00,suicide,French chemist
+1750-01-01T00:00:00+02:00,1750-01-01T00:00:00+02:00,1804-01-01T00:00:00+02:00,pneumonia,Canadian businessman entrepreneur
+1752-01-01T00:00:00+02:00,1752-08-21,1794-01-01T00:00:00+02:00,suicide,French priest
+1753-01-01T00:00:00+02:00,1753-05-31,1793-01-01T00:00:00+02:00,accidents_murder_and_war,French politician
+1754-01-01T00:00:00+02:00,1754-03-17,1793-01-01T00:00:00+02:00,accidents_murder_and_war,French revolutionary
+1754-01-01T00:00:00+02:00,1754-06-18,1817-01-01T00:00:00+02:00,cancer,Swedish writer
+1755-01-01T00:00:00+02:00,1755-04-11,1824-01-01T00:00:00+02:00,cerebral_problems,British surgeon
+1761-01-01T00:00:00+02:00,1761-01-01T00:00:00+02:00,1827-01-01T00:00:00+02:00,accidents_murder_and_war,Wisconsin pioneer and U.S. Indian Agent
+1762-01-01T00:00:00+02:00,{1762-04-21|1762-08-21},1841-01-01T00:00:00+02:00,pneumonia,Protestant Episcopal clergyman in the United States
+1764-01-01T00:00:00+02:00,1764-02-01,1805-01-01T00:00:00+02:00,accidents_murder_and_war,Royal Navy officer
+1764-01-01T00:00:00+02:00,1764-09-17,1809-01-01T00:00:00+02:00,accidents_murder_and_war,Polish army commander
+1766-01-01T00:00:00+02:00,1766-01-01T00:00:00+02:00,1788-01-01T00:00:00+02:00,accidents_murder_and_war,Swedish woman soldier
+1768-01-01T00:00:00+02:00,1768-10-04,1816-01-01T00:00:00+02:00,accidents_murder_and_war,Colombian lawyer and scientist
 1769-01-01T00:00:00+02:00,1769-01-01T00:00:00+02:00,1812-01-01T00:00:00+02:00,accidents_murder_and_war,Assassin of British Prime Minister Spencer Perceval
+1782-01-01T00:00:00+02:00,1782-04-10,1819-01-01T00:00:00+02:00,accidents_murder_and_war,Neogranadine
+1783-01-01T00:00:00+02:00,1783-01-01T00:00:00+02:00,1845-01-01T00:00:00+02:00,accidents_murder_and_war,Illinois pioneer landowner and businessman
+1785-01-01T00:00:00+02:00,1785-10-02,1842-01-01T00:00:00+02:00,pneumonia,Texas politician
 1788-01-01T00:00:00+02:00,1788-01-01T00:00:00+02:00,1872-01-01T00:00:00+02:00,other_respiratory_problems,British diving engineer
+1789-01-01T00:00:00+02:00,1789-01-01T00:00:00+02:00,1808-01-01T00:00:00+02:00,accidents_murder_and_war,American murder victim
+1790-01-01T00:00:00+02:00,1790-11-21,1831-01-01T00:00:00+02:00,accidents_murder_and_war,U.S. Army officer
+1792-01-01T00:00:00+02:00,1792-05-17,1860-01-01T00:00:00+02:00,cancer,Wife of Lord Byron
+1793-01-01T00:00:00+02:00,1793-04-02,1860-01-01T00:00:00+02:00,suicide,Physician scientist
+1796-01-01T00:00:00+02:00,1796-05-04,1859-01-01T00:00:00+02:00,cerebral_problems,American historian and Hispanist
+1798-01-01T00:00:00+02:00,1798-10-11,1875-01-01T00:00:00+02:00,pneumonia,United States historian and antiquarian
 1800-01-01T00:00:00+02:00,1800-05-09,1859-01-01T00:00:00+02:00,accidents_murder_and_war,American revolutionary abolitionist
+1802-01-01T00:00:00+02:00,1802-01-01T00:00:00+02:00,1831-01-01T00:00:00+02:00,accidents_murder_and_war,American politician
 1804-01-01T00:00:00+02:00,1804-01-01T00:00:00+02:00,1884-01-01T00:00:00+02:00,natural_death,NYPD police captain who participated in the Draft Riot of 1863.
+1804-01-01T00:00:00+02:00,1804-10-03,1869-01-01T00:00:00+02:00,cerebral_problems,French spiritual writer
+1805-01-01T00:00:00+02:00,1805-03-26,1973-01-01T00:00:00+02:00,pneumonia,Disputed claimant to longevity record
+1805-01-01T00:00:00+02:00,1805-01-01T00:00:00+02:00,1881-01-01T00:00:00+02:00,pneumonia,Prominent New York contractor and bondsman during the mid-to late 19th century; involved in a dispute with Daniel D. Conover over the position of NYC street commissioner resulting in the Police Riot of 1857.
 1805-01-01T00:00:00+02:00,1805-09-04,1883-01-01T00:00:00+02:00,cardiovascular_problems,American politician
+1806-01-01T00:00:00+02:00,1806-04-17,1858-01-01T00:00:00+02:00,accidents_murder_and_war,Assamese nobleman
+1806-01-01T00:00:00+02:00,{1806-02-11|1806-07-05},1839-01-01T00:00:00+02:00,cancer,Aristocrat
+1807-01-01T00:00:00+02:00,1807-11-05,1888-01-01T00:00:00+02:00,pneumonia,First public school teacher in Chicago Illinois
+1807-01-01T00:00:00+02:00,1807-01-01T00:00:00+02:00,1883-01-01T00:00:00+02:00,pneumonia,NYPD police captain who participated in the New York Draft Riots.
+1807-01-01T00:00:00+02:00,{1807-01-01T00:00:00+02:00|1807-02-15},1855-01-01T00:00:00+02:00,cerebral_problems,Serbian revolutionary
 1807-01-01T00:00:00+02:00,1807-09-30,1873-01-01T00:00:00+02:00,cardiovascular_problems,NYPD police captain who organized the defense of several key buildings in Manhattan including the State Armory and the Union Steam Works.
 1807-01-01T00:00:00+02:00,{1807-01-01T00:00:00+02:00|1807-01-03},1896-01-01T00:00:00+02:00,natural_death,businessman
 1809-01-01T00:00:00+02:00,1809-09-05,1866-01-01T00:00:00+02:00,cardiovascular_problems,German actor
+1809-01-01T00:00:00+02:00,1809-08-22,1867-01-01T00:00:00+02:00,pneumonia,Journalist pioneer Texas sheepman
+1812-01-01T00:00:00+02:00,1812-11-07,1848-01-01T00:00:00+02:00,accidents_murder_and_war,Sri Lankan activist
+1815-01-01T00:00:00+02:00,1815-01-27,1891-01-01T00:00:00+02:00,cerebral_problems,American businessperson
+1816-01-01T00:00:00+02:00,1816-11-06,1901-01-01T00:00:00+02:00,cerebral_problems,American businessman
 1816-01-01T00:00:00+02:00,1816-12-16,1901-01-01T00:00:00+02:00,natural_death,NYPD police inspector who participated in the Draft Riot of 1863; also involved in the Cunningham-Burdell bogus baby case and Alexander T. Stewart bodysnatching case.
+1816-01-01T00:00:00+02:00,1816-05-16,1877-01-01T00:00:00+02:00,pneumonia,NYPD police inspector and participant in the Police Riot of 1857 and New York Draft Riots of 1863.
 {1815-01-01T00:00:00+02:00|1816-01-01T00:00:00+02:00},1816-01-01T00:00:00+02:00,1866-01-01T00:00:00+02:00,cardiovascular_problems,NYPD police inspector who commanded police during the New York Draft Riots.
 1817-01-01T00:00:00+02:00,1817-02-13,1875-01-01T00:00:00+02:00,cardiovascular_problems,Daughter of John C Calhoun
 1818-01-01T00:00:00+02:00,1818-10-25,1900-01-01T00:00:00+02:00,natural_death,American civil war spy
+1818-01-01T00:00:00+02:00,1818-09-11,1891-01-01T00:00:00+02:00,other_respiratory_problems,Physician surgeon teacher of anatomy
+1819-01-01T00:00:00+02:00,1819-12-10,1893-01-01T00:00:00+02:00,pneumonia,British engineer
 1819-01-01T00:00:00+02:00,1819-01-01T00:00:00+02:00,1900-01-01T00:00:00+02:00,natural_death,Founder of the New York Irish enclave of Corcoran's Roost and Kip's Bay.
-1824-01-01T00:00:00+02:00,1824-04-26,1907-01-01T00:00:00+02:00,accidents_murder_and_war,Developed the first widely used system of shorthand during the mid-19th century and is credited for introducing stenography in the U.S.; headed public crusade against New York underworld figure John Allen in 1868.
+1819-01-01T00:00:00+02:00,1819-09-13,1896-01-01T00:00:00+02:00,cerebral_problems,German musician pianist composer
+{1820-01-01T00:00:00+02:00|1822-01-01T00:00:00+02:00},1820-01-01T00:00:00+02:00,1913-01-01T00:00:00+02:00,pneumonia,African-American abolitionist and Union spy
+1821-01-01T00:00:00+02:00,1821-11-30,1880-01-01T00:00:00+02:00,cancer,Police captain who co-led a police squad with drillmaster Theron S. Copeland during the New York Draft Riots; was also the longtime head of the Tombs Police Court.
+1822-01-01T00:00:00+02:00,1822-09-09,1876-01-01T00:00:00+02:00,cardiovascular_problems,American politician
+1823-01-01T00:00:00+02:00,1823-05-15,1892-01-01T00:00:00+02:00,pneumonia,Last Chief Engineer of the New York City Fire Department.
+1824-01-01T00:00:00+02:00,1824-11-03,1859-01-01T00:00:00+02:00,pneumonia,American businessman
+1824-01-01T00:00:00+02:00,1824-04-26,1907-01-01T00:00:00+02:00,other_respiratory_problems,Developed the first widely used system of shorthand during the mid-19th century and is credited for introducing stenography in the U.S.; headed public crusade against New York underworld figure John Allen in 1868.
 1825-01-01T00:00:00+02:00,1825-09-25,1910-01-01T00:00:00+02:00,cardiovascular_problems,American banker
+1826-01-01T00:00:00+02:00,1826-12-22,1897-01-01T00:00:00+02:00,cerebral_problems,Merchant investor
 1828-01-01T00:00:00+02:00,1828-04-13,1906-01-01T00:00:00+02:00,natural_death,British feminist
+1829-01-01T00:00:00+02:00,1829-12-14,{1863-01-01T00:00:00+02:00|1916-01-01T00:00:00+02:00},accidents_murder_and_war,Judge Lawyer
+1829-01-01T00:00:00+02:00,1829-07-12,1892-01-01T00:00:00+02:00,cerebral_problems,American businessman yachtsman and racehorse owner/breeder
+1830-01-01T00:00:00+02:00,1830-11-20,1900-01-01T00:00:00+02:00,cardiovascular_problems,Served as New York City postmaster from 1869-1872; an officer in the Irish Rifles and Hardtack regiment during the American Civil War.
 1830-01-01T00:00:00+02:00,1830-05-19,1890-01-01T00:00:00+02:00,pneumonia,Police officer
 1830-01-01T00:00:00+02:00,1830-05-19,1890-01-01T00:00:00+02:00,accidents_murder_and_war,Police officer
+1830-01-01T00:00:00+02:00,1830-07-22,1868-01-01T00:00:00+02:00,accidents_murder_and_war,American actress
+1831-01-01T00:00:00+02:00,1831-02-23,1870-01-01T00:00:00+02:00,pneumonia,New York gang leader and underworld figure; he and Tommy Hadden co-led the Dead Rabbits during the 1850s.
+1831-01-01T00:00:00+02:00,1831-05-01,1880-01-01T00:00:00+02:00,cancer,American Mormon leader
+1831-01-01T00:00:00+02:00,1831-01-02,1870-01-01T00:00:00+02:00,suicide,British scientist
+1831-01-01T00:00:00+02:00,1831-11-28,1902-01-01T00:00:00+02:00,cardiovascular_problems,American prospectors
+1832-01-01T00:00:00+02:00,1832-03-25,1864-01-01T00:00:00+02:00,accidents_murder_and_war,National Hero of Sri Lanka
 1832-01-01T00:00:00+02:00,1832-01-01T00:00:00+02:00,1898-01-01T00:00:00+02:00,cardiovascular_problems,American banker
+1834-01-01T00:00:00+02:00,1834-01-01T00:00:00+02:00,1907-01-01T00:00:00+02:00,pneumonia,Irish-Canadian businessman
+1834-01-01T00:00:00+02:00,1834-11-21,1916-01-01T00:00:00+02:00,cerebral_problems,American business woman
+1835-01-01T00:00:00+02:00,1835-11-25,1919-01-01T00:00:00+02:00,other_respiratory_problems,American businessman and philanthropist
+1836-01-01T00:00:00+02:00,1836-01-01T00:00:00+02:00,1895-01-01T00:00:00+02:00,cerebral_problems,American businessman
+1836-01-01T00:00:00+02:00,1836-02-21,1889-01-01T00:00:00+02:00,cerebral_problems,Businessperson
 1836-01-01T00:00:00+02:00,1836-01-01T00:00:00+02:00,1905-01-01T00:00:00+02:00,cardiovascular_problems,New York burglar bank robber and underworld figure; he was a member of the Leslie Gang.
 1836-01-01T00:00:00+02:00,1836-06-10,1900-01-01T00:00:00+02:00,cardiovascular_problems,American surgeon
+1837-01-01T00:00:00+02:00,1837-07-18,1873-01-01T00:00:00+02:00,accidents_murder_and_war,Bulgarian revolutionary
+1838-01-01T00:00:00+02:00,1838-01-04,1883-01-01T00:00:00+02:00,cerebral_problems,American midget circus performer
+1838-01-01T00:00:00+02:00,1838-02-06,1905-01-01T00:00:00+02:00,cerebral_problems,Actor
+1838-01-01T00:00:00+02:00,1838-07-08,1898-01-01T00:00:00+02:00,cancer,Union Army officer businessman philanthropist
+{1838-01-01T00:00:00+02:00|1839-01-01T00:00:00+02:00},{1838-02-21|1839-01-01T00:00:00+02:00},1909-01-01T00:00:00+02:00,cardiovascular_problems,NYPD police commissioner Collector for the Port of New York and Republican candidate for the Mayor of New York in 1888.
+1839-01-01T00:00:00+02:00,1839-01-01T00:00:00+02:00,1865-01-01T00:00:00+02:00,accidents_murder_and_war,English-born saloon keeper thief and underworld figure in New York City during the 1850s and early 1860s; his murder by Barney Friery was one of the highly publicized trials in the city prior to the end of the American Civil War.
 1839-01-01T00:00:00+02:00,1839-09-09,1915-01-01T00:00:00+02:00,cardiovascular_problems,American philanthropist schoolteacher
 1839-01-01T00:00:00+02:00,1839-07-09,1917-01-01T00:00:00+02:00,natural_death,NYPD police inspector
 1841-01-01T00:00:00+02:00,1841-12-07,1910-01-01T00:00:00+02:00,other_respiratory_problems,Industrialist
+1841-01-01T00:00:00+02:00,1841-06-14,1910-01-01T00:00:00+02:00,cardiovascular_problems,American judge
+1841-01-01T00:00:00+02:00,1841-10-11,1909-01-01T00:00:00+02:00,pneumonia,Physiologist
+1841-01-01T00:00:00+02:00,1841-10-21,1896-01-01T00:00:00+02:00,accidents_murder_and_war,American rancher hanged for murder of three school board members in Park County Colorado
+1841-01-01T00:00:00+02:00,1841-01-01T00:00:00+02:00,1895-01-01T00:00:00+02:00,cardiovascular_problems,American journalist
 1841-01-01T00:00:00+02:00,1841-11-18,1888-01-01T00:00:00+02:00,cardiovascular_problems,NYPD police captain responsible for the capture of a number of high-profile criminals most notably procuress Jane the Grabber in 1875.
 1842-01-01T00:00:00+02:00,1842-01-01T00:00:00+02:00,1920-01-01T00:00:00+02:00,cardiovascular_problems,American businessman
+1843-01-01T00:00:00+02:00,1843-08-15,1912-01-01T00:00:00+02:00,pneumonia,American politician
+1843-01-01T00:00:00+02:00,1843-09-13,1885-01-01T00:00:00+02:00,suicide,American socialite
+1843-01-01T00:00:00+02:00,1843-03-31,1889-01-01T00:00:00+02:00,suicide,Anti-Semite
+1843-01-01T00:00:00+02:00,1843-06-19,1929-01-01T00:00:00+02:00,pneumonia,Philanthropist
+1843-01-01T00:00:00+02:00,1843-01-01T00:00:00+02:00,1880-01-01T00:00:00+02:00,pneumonia,Longtime political organizer and fixer for Tammany Hall.
+1844-01-01T00:00:00+02:00,1844-01-01T00:00:00+02:00,1878-01-01T00:00:00+02:00,accidents_murder_and_war,Kansas saloon operator
+1844-01-01T00:00:00+02:00,1844-10-11,1919-01-01T00:00:00+02:00,pneumonia,American businessman (food processing)
+1844-01-01T00:00:00+02:00,1844-01-01T00:00:00+02:00,1899-01-01T00:00:00+02:00,pneumonia,American prostitute
+{1843-01-01T00:00:00+02:00|1844-01-01T00:00:00+02:00},1844-02-01,1866-01-01T00:00:00+02:00,accidents_murder_and_war,American murderer
+1844-01-01T00:00:00+02:00,1844-01-01T00:00:00+02:00,1929-01-01T00:00:00+02:00,pneumonia,Physician
+{1845-01-01T00:00:00+02:00|1846-01-01T00:00:00+02:00},{1845-06-22|1846-06-22},1868-01-01T00:00:00+02:00,accidents_murder_and_war,Confederate Army soldier
+1845-01-01T00:00:00+02:00,1845-11-12,1922-01-01T00:00:00+02:00,cancer,British entomologist
+1846-01-01T00:00:00+02:00,1846-03-22,1891-01-01T00:00:00+02:00,accidents_murder_and_war,American town marshal
+1846-01-01T00:00:00+02:00,1846-09-14,1922-01-01T00:00:00+02:00,cerebral_problems,American inventor
 1847-01-01T00:00:00+02:00,1847-10-10,1902-01-01T00:00:00+02:00,cardiovascular_problems,American philanthropist
+1847-01-01T00:00:00+02:00,1847-02-04,1929-01-01T00:00:00+02:00,suicide,American businessman
+1848-01-01T00:00:00+02:00,1848-09-08,1897-01-01T00:00:00+02:00,suicide,German chemist
+1848-01-01T00:00:00+02:00,1848-01-01T00:00:00+02:00,1930-01-01T00:00:00+02:00,pneumonia,Computer industrialist
+1849-01-01T00:00:00+02:00,1849-07-23,1919-01-01T00:00:00+02:00,cancer,Lawman
+1849-01-01T00:00:00+02:00,1849-06-01,1918-01-01T00:00:00+02:00,accidents_murder_and_war,American businessman
 1849-01-01T00:00:00+02:00,1849-05-27,1938-01-01T00:00:00+02:00,cardiovascular_problems,German-American businessperson
+1850-01-01T00:00:00+02:00,1850-06-04,1879-01-01T00:00:00+02:00,pneumonia,American publisher
+1850-01-01T00:00:00+02:00,{1850-01-01T00:00:00+02:00|1850-06-05},1936-01-01T00:00:00+02:00,cerebral_problems,American historian
 1850-01-01T00:00:00+02:00,1850-09-23,1914-01-01T00:00:00+02:00,cardiovascular_problems,Businessperson
+{1850-01-01T00:00:00+02:00|1851-01-01T00:00:00+02:00},{1850-01-01T00:00:00+02:00|1851-07-27},1917-01-01T00:00:00+02:00,pneumonia,Chief police inspector for the New York City Police Department; his testimony before the Lexow Committee helped expose police corruption within the NYPD.
+1851-01-01T00:00:00+02:00,1851-09-12,1916-01-01T00:00:00+02:00,accidents_murder_and_war,Australian rower
 1851-01-01T00:00:00+02:00,1851-11-16,1907-01-01T00:00:00+02:00,cardiovascular_problems,Geologist and children's writer
+1851-01-01T00:00:00+02:00,1851-01-01,1881-01-01T00:00:00+02:00,accidents_murder_and_war,New Orleans gambler known as King of the Baco Men; ran one of the largest banco operations in the United States during the late 19th century.
+1852-01-01T00:00:00+02:00,1852-08-12,1890-01-01T00:00:00+02:00,pneumonia,Founder of the Knights of Columbus
+1852-01-01T00:00:00+02:00,1852-10-09,1919-01-01T00:00:00+02:00,suicide,German Chemist
+1852-01-01T00:00:00+02:00,1852-02-08,1883-01-01T00:00:00+02:00,accidents_murder_and_war,American gangster
 1854-01-01T00:00:00+02:00,1854-02-16,1934-01-01T00:00:00+02:00,cardiovascular_problems,English theosophist
+1854-01-01T00:00:00+02:00,1854-01-23,1923-01-01T00:00:00+02:00,cardiovascular_problems,American mayor
 1854-01-01T00:00:00+02:00,1854-10-18,1930-01-01T00:00:00+02:00,cardiovascular_problems,American businessman
+1855-01-01T00:00:00+02:00,{1855-01-01T00:00:00+02:00|1855-02-05},1875-01-01T00:00:00+02:00,accidents_murder_and_war,Tightrope dancer gymnast magician
+1855-01-01T00:00:00+02:00,1855-01-01T00:00:00+02:00,1888-01-01T00:00:00+02:00,accidents_murder_and_war,co-leader of the Whyos with Danny Lyons
+1855-01-01T00:00:00+02:00,1855-07-12,1908-01-01T00:00:00+02:00,pneumonia,Canadian athlete
+1856-01-01T00:00:00+02:00,1856-08-16,1921-01-01T00:00:00+02:00,other_respiratory_problems,American civil engineer
+1856-01-01T00:00:00+02:00,1856-04-23,1910-01-01T00:00:00+02:00,cerebral_problems,American inventor
 1856-01-01T00:00:00+02:00,1856-08-12,1917-01-01T00:00:00+02:00,cardiovascular_problems,American businessman
+1857-01-01T00:00:00+02:00,1857-04-10,1930-01-01T00:00:00+02:00,cancer,Puzzlist Mathematical games designer
+1857-01-01T00:00:00+02:00,1857-06-29,1908-01-01T00:00:00+02:00,other_respiratory_problems,American businessman
+1857-01-01T00:00:00+02:00,1857-01-01T00:00:00+02:00,1919-01-01T00:00:00+02:00,cardiovascular_problems,American publisher
+1857-01-01T00:00:00+02:00,1857-01-05,1924-01-01T00:00:00+02:00,pneumonia,American businessman
+1857-01-01T00:00:00+02:00,1857-06-03,1911-01-01T00:00:00+02:00,cerebral_problems,American mayor
 1858-01-01T00:00:00+02:00,1858-01-21,1940-01-01T00:00:00+02:00,cardiovascular_problems,American boat builder
+1858-01-01T00:00:00+02:00,1858-03-23,1941-01-01T00:00:00+02:00,pneumonia,German politician
+1858-01-01T00:00:00+02:00,{1858-06-30|1858-07-30},1914-01-01T00:00:00+02:00,accidents_murder_and_war,French journalist
+1858-01-01T00:00:00+02:00,1858-01-01T00:00:00+02:00,1907-01-01T00:00:00+02:00,suicide,American mayor
+{1858-01-01T00:00:00+02:00|1864-01-01T00:00:00+02:00},{1858-01-11|1864-01-11},1947-01-01T00:00:00+02:00,other_respiratory_problems,American businessperson and British retail magnate
 1858-01-01T00:00:00+02:00,1858-03-30,1935-01-01T00:00:00+02:00,cardiovascular_problems,American actor
+1859-01-01T00:00:00+02:00,1859-02-01,1928-01-01T00:00:00+02:00,cardiovascular_problems,U.S. pathologist
 1859-01-01T00:00:00+02:00,1859-03-15,1932-01-01T00:00:00+02:00,cardiovascular_problems,President of Charles Schriber's Sons
+1859-01-01T00:00:00+02:00,1859-10-23,1892-01-01T00:00:00+02:00,pneumonia,Stage actress
+1859-01-01T00:00:00+02:00,1859-07-12,1924-01-01T00:00:00+02:00,accidents_murder_and_war,Russian-Canadian pacifist activist and philosopher
+1860-01-01T00:00:00+02:00,1860-06-25,1942-01-01T00:00:00+02:00,accidents_murder_and_war,Croatian chess master and hazzan
 1860-01-01T00:00:00+02:00,1860-01-09,1951-01-01T00:00:00+02:00,cardiovascular_problems,American baseball player
+1860-01-01T00:00:00+02:00,1860-08-12,1907-01-01T00:00:00+02:00,cancer,Mother of Adolf Hitler
 1860-01-01T00:00:00+02:00,1860-01-01T00:00:00+02:00,1912-01-01T00:00:00+02:00,natural_death,American naturalist
+1860-01-01T00:00:00+02:00,1860-01-01T00:00:00+02:00,1895-01-01T00:00:00+02:00,accidents_murder_and_war,Swindler and confidence man who invented the gold brick game in New York during the 19th century.
 1860-01-01T00:00:00+02:00,1860-01-24,1938-01-01T00:00:00+02:00,cardiovascular_problems,American businesspeople
+1860-01-01T00:00:00+02:00,1860-07-19,1927-01-01T00:00:00+02:00,pneumonia,Murder trial defendant
+1860-01-01T00:00:00+02:00,{1860-01-01T00:00:00+02:00|1860-03-16},1920-01-01T00:00:00+02:00,cardiovascular_problems,Political activist and social reformer who served as assistant to District Attorney Charles Whitman during the Rosenthal murder trial.
 1860-01-01T00:00:00+02:00,1860-01-17,1952-01-01T00:00:00+02:00,cardiovascular_problems,Actor director screenwriter
+{1861-01-01T00:00:00+02:00|1862-01-01T00:00:00+02:00},{1861-12-08|1862-01-31},1892-01-01T00:00:00+02:00,accidents_murder_and_war,American outlaw
+1861-01-01T00:00:00+02:00,1861-04-06,1932-01-01T00:00:00+02:00,pneumonia,American surgeon
+1861-01-01T00:00:00+02:00,1861-06-19,1896-01-01T00:00:00+02:00,accidents_murder_and_war,Filipino activist
+1862-01-01T00:00:00+02:00,1862-07-17,{0020-01-01T00:00:00+02:00|1914-01-01T00:00:00+02:00},accidents_murder_and_war,Prime Minister of Nepal
 1862-01-01T00:00:00+02:00,1862-08-10,1906-01-01T00:00:00+02:00,cardiovascular_problems,American businessman
+1862-01-01T00:00:00+02:00,1862-06-02,1918-01-01T00:00:00+02:00,suicide,Swiss chemist
+{1862-01-01T00:00:00+02:00|1863-01-01T00:00:00+02:00},{1862-04-18|1863-01-01T00:00:00+02:00},1909-01-01T00:00:00+02:00,other_respiratory_problems,Owner of the National League's Boston Doves
 1862-01-01T00:00:00+02:00,1862-09-20,1917-01-01T00:00:00+02:00,cardiovascular_problems,United States Assistant Secretary of the Interior
 1862-01-01T00:00:00+02:00,1862-03-23,1950-01-01T00:00:00+02:00,natural_death,American gunman
+1863-01-01T00:00:00+02:00,1863-07-12,1906-01-01T00:00:00+02:00,suicide,German physicist
+1863-01-01T00:00:00+02:00,1863-08-02,1937-01-01T00:00:00+02:00,cerebral_problems,Architect
 1863-01-01T00:00:00+02:00,1863-07-28,1924-01-01T00:00:00+02:00,other_respiratory_problems,American politician
+1863-01-01T00:00:00+02:00,1863-01-01T00:00:00+02:00,1930-01-01T00:00:00+02:00,other_respiratory_problems,New York restaurateur and owner of the popular Broadway restaurant-cabaret club Churchill's.
+1864-01-01T00:00:00+02:00,1864-05-28,1930-01-01T00:00:00+02:00,suicide,French adventurer and writer
 1864-01-01T00:00:00+02:00,1864-05-17,1944-01-01T00:00:00+02:00,cardiovascular_problems,American businessman
 1864-01-01T00:00:00+02:00,1864-10-25,1920-01-01T00:00:00+02:00,pneumonia,American businessman
+1864-01-01T00:00:00+02:00,1864-10-10,1931-01-01T00:00:00+02:00,cerebral_problems,American mayor
+1865-01-01T00:00:00+02:00,1865-04-08,1932-01-01T00:00:00+02:00,cerebral_problems,Writer teacher
 1865-01-01T00:00:00+02:00,1865-09-30,1945-01-01T00:00:00+02:00,accidents_murder_and_war,Swiss chemist
+1865-01-01T00:00:00+02:00,{1865-01-01T00:00:00+02:00|1865-06-29},1986-01-01T00:00:00+02:00,pneumonia,Japanese supercentenarian
+1865-01-01T00:00:00+02:00,1865-12-29,1940-01-01T00:00:00+02:00,cerebral_problems,Actor
+1865-01-01T00:00:00+02:00,1865-04-05,1931-01-01T00:00:00+02:00,cancer,Private detective for the Pinkerton Detective Agency from 1888-1911; served as Second Deputy Police Commissioner and headed of the NYPD Detectives Bureau from 1911-1913.
+1866-01-01T00:00:00+02:00,{1866-01-01T00:00:00+02:00|1866-05-05},1943-01-01T00:00:00+02:00,accidents_murder_and_war,Croatian professor of gymnastics
 1866-01-01T00:00:00+02:00,1866-01-01T00:00:00+02:00,1940-01-01T00:00:00+02:00,accidents_murder_and_war,Detective investigator prosecutor state councillor lawyer
 1866-01-01T00:00:00+02:00,1866-02-12,1940-01-01T00:00:00+02:00,cardiovascular_problems,Slovak writer
+1866-01-01T00:00:00+02:00,1866-01-01T00:00:00+02:00,1942-01-01T00:00:00+02:00,accidents_murder_and_war,Croatian industrialist
 1866-01-01T00:00:00+02:00,1866-02-26,1933-01-01T00:00:00+02:00,cardiovascular_problems,American businessman and railway executive
+1866-01-01T00:00:00+02:00,1866-09-16,1934-01-01T00:00:00+02:00,cardiovascular_problems,American sportswriter
+1866-01-01T00:00:00+02:00,1866-08-30,1947-01-01T00:00:00+02:00,cardiovascular_problems,English actor
+1867-01-01T00:00:00+02:00,1867-09-07,{1867-01-01T00:00:00+02:00|1943-01-01T00:00:00+02:00},cerebral_problems,American banker
+1867-01-01T00:00:00+02:00,1867-07-18,1932-01-01T00:00:00+02:00,cancer,A great heroine survivor of the sinking of the Titanic
 1867-01-01T00:00:00+02:00,1867-12-29,1931-01-01T00:00:00+02:00,cardiovascular_problems,newspaper publisher Democrat
 1867-01-01T00:00:00+02:00,1867-07-13,1952-01-01T00:00:00+02:00,cardiovascular_problems,Actor
+1868-01-01T00:00:00+02:00,1868-01-01T00:00:00+02:00,1922-01-01T00:00:00+02:00,cardiovascular_problems,New York saloon keeper and underworld figure in New York City at the start of the 20th century.
 1868-01-01T00:00:00+02:00,1868-04-20,1936-01-01T00:00:00+02:00,cardiovascular_problems,American mayor
 1868-01-01T00:00:00+02:00,1868-09-13,1960-01-01T00:00:00+02:00,natural_death,Film and stage actress
+1868-01-01T00:00:00+02:00,1868-04-26,1915-01-01T00:00:00+02:00,suicide,German neurologist
 1868-01-01T00:00:00+02:00,1868-05-17,1920-01-01T00:00:00+02:00,pneumonia,American businessman
+1868-01-01T00:00:00+02:00,1868-03-18,1940-01-01T00:00:00+02:00,suicide,Austrian psychoanalyst
+1869-01-01T00:00:00+02:00,1869-10-02,1948-01-01T00:00:00+02:00,accidents_murder_and_war,Nonviolent political leader during Indian independence and Hindu reformer
 1869-01-01T00:00:00+02:00,1869-01-01T00:00:00+02:00,1898-01-01T00:00:00+02:00,accidents_murder_and_war,American housewife in Park County Colorado with tragic life story
 1869-01-01T00:00:00+02:00,1869-01-01T00:00:00+02:00,1898-01-01T00:00:00+02:00,pneumonia,American housewife in Park County Colorado with tragic life story
+1869-01-01T00:00:00+02:00,1869-07-20,1936-01-01T00:00:00+02:00,pneumonia,American magician
 1870-01-01T00:00:00+02:00,1870-11-12,1952-01-01T00:00:00+02:00,cardiovascular_problems,Actor producer screenwriter
+1870-01-01T00:00:00+02:00,1870-01-29,1942-01-01T00:00:00+02:00,cerebral_problems,Police commissioner of the New York City Police Department from 1914-1918.
+1870-01-01T00:00:00+02:00,1870-11-21,1936-01-01T00:00:00+02:00,suicide,American anarchist
 1870-01-01T00:00:00+02:00,1870-05-21,1944-01-01T00:00:00+02:00,cardiovascular_problems,Actor
+1870-01-01T00:00:00+02:00,1870-01-20,1925-01-01T00:00:00+02:00,suicide,Ku Klux Klan activist
 1870-01-01T00:00:00+02:00,1870-04-17,1934-01-01T00:00:00+02:00,cardiovascular_problems,American lighting engineer and inventor
+1870-01-01T00:00:00+02:00,1870-06-21,1915-01-01T00:00:00+02:00,suicide,German chemist
 1870-01-01T00:00:00+02:00,{1870-05-21|1870-10-20},1957-01-01T00:00:00+02:00,cardiovascular_problems,Foounder of Coleman Company; mayor of Wichita Kansas
+1871-01-01T00:00:00+02:00,1871-08-27,1945-01-01T00:00:00+02:00,cardiovascular_problems,Novelist journalist
+1871-01-01T00:00:00+02:00,1871-04-20,1922-01-01T00:00:00+02:00,pneumonia,Croatian engineer and inventor
 1871-01-01T00:00:00+02:00,1871-02-12,1947-01-01T00:00:00+02:00,cardiovascular_problems,American playboy
+1871-01-01T00:00:00+02:00,1871-05-22,1940-01-01T00:00:00+02:00,pneumonia,American politician
 1871-01-01T00:00:00+02:00,1871-11-18,1932-01-01T00:00:00+02:00,cardiovascular_problems,Spanish composer writer and impresario
 1871-01-01T00:00:00+02:00,1871-11-18,1932-01-01T00:00:00+02:00,other_respiratory_problems,Spanish composer writer and impresario
 1871-01-01T00:00:00+02:00,1871-09-05,1917-01-01T00:00:00+02:00,accidents_murder_and_war,American rowing coach
+1872-01-01T00:00:00+02:00,{1872-11-07|1872-11-08},1945-01-01T00:00:00+02:00,cancer,Actress
+1872-01-01T00:00:00+02:00,1872-04-29,1930-01-01T00:00:00+02:00,pneumonia,American businessman and horse breeder
+1872-01-01T00:00:00+02:00,1872-01-17,1959-01-01T00:00:00+02:00,pneumonia,American actor
+1872-01-01T00:00:00+02:00,1872-05-13,1902-01-01T00:00:00+02:00,pneumonia,American cyclist
+1872-01-01T00:00:00+02:00,{1872-10-17|1872-10-18},{1936-01-01T00:00:00+02:00|1937-01-01T00:00:00+02:00},cerebral_problems,Popular fight announcer and boxing official during the early 20th century.
+1872-01-01T00:00:00+02:00,1872-06-09,1950-01-01T00:00:00+02:00,cerebral_problems,American businessman and polo player
+1872-01-01T00:00:00+02:00,1872-01-16,1943-01-01T00:00:00+02:00,accidents_murder_and_war,Wife of eccentric millionaire Albert Mussey Johnson provided inspiration for the construction of Scotty's Castle.
 1873-01-01T00:00:00+02:00,1873-01-01T00:00:00+02:00,1933-01-01T00:00:00+02:00,accidents_murder_and_war,Irish vagrant
+1873-01-01T00:00:00+02:00,1873-12-06,1944-01-01T00:00:00+02:00,other_respiratory_problems,Lawyer reformist
 1873-01-01T00:00:00+02:00,1873-03-04,1957-01-01T00:00:00+02:00,cardiovascular_problems,American lawyer
+1873-01-01T00:00:00+02:00,1873-09-05,1942-01-01T00:00:00+02:00,cerebral_problems,military officer
+1873-01-01T00:00:00+02:00,1873-06-10,1937-01-01T00:00:00+02:00,pneumonia,American mayor
 1874-01-01T00:00:00+02:00,1874-03-28,1949-01-01T00:00:00+02:00,cardiovascular_problems,American politician
+1874-01-01T00:00:00+02:00,{1874-01-01T00:00:00+02:00|1874-03-25},1941-01-01T00:00:00+02:00,accidents_murder_and_war,Croatian banker
+1874-01-01T00:00:00+02:00,1874-12-21,1941-01-01T00:00:00+02:00,accidents_murder_and_war,Polish critic poet and translator
 1874-01-01T00:00:00+02:00,1874-10-05,1961-01-01T00:00:00+02:00,cardiovascular_problems,Actor director
+1874-01-01T00:00:00+02:00,1874-05-12,1929-01-01T00:00:00+02:00,suicide,Austrian physician
 1875-01-01T00:00:00+02:00,1875-06-06,1952-01-01T00:00:00+02:00,natural_death,Actor & Director
 1875-01-01T00:00:00+02:00,1875-10-08,1934-01-01T00:00:00+02:00,cardiovascular_problems,Socialite
 1875-01-01T00:00:00+02:00,1875-10-26,1958-01-01T00:00:00+02:00,cardiovascular_problems,Actor
 1875-01-01T00:00:00+02:00,1875-07-26,1965-01-01T00:00:00+02:00,cardiovascular_problems,American businessman
+{1875-01-01T00:00:00+02:00|1877-01-01T00:00:00+02:00},{1875-09-26|1877-09-26},1959-01-01T00:00:00+02:00,pneumonia,Actor
+1875-01-01T00:00:00+02:00,1875-03-19,1958-01-01T00:00:00+02:00,accidents_murder_and_war,Archaeologist
+1875-01-01T00:00:00+02:00,1875-11-08,1907-01-01T00:00:00+02:00,accidents_murder_and_war,Chinese poet revolutionary
 1875-01-01T00:00:00+02:00,1875-02-21,1997-01-01T00:00:00+02:00,natural_death,French supercentenarian who had the longest confirmed human life span in history
+1875-01-01T00:00:00+02:00,1875-11-24,1944-01-01T00:00:00+02:00,cancer,American activist and pacifist
+1875-01-01T00:00:00+02:00,1875-04-04,1948-01-01T00:00:00+02:00,pneumonia,Actor
 1876-01-01T00:00:00+02:00,{1876-01-01T00:00:00+02:00|1876-10-14},1951-01-01T00:00:00+02:00,cardiovascular_problems,AMerican theologian
 1876-01-01T00:00:00+02:00,1876-01-22,1943-01-01T00:00:00+02:00,cardiovascular_problems,American magician
+1876-01-01T00:00:00+02:00,1876-08-07,1917-01-01T00:00:00+02:00,accidents_murder_and_war,Dutch exotic dancer and spy
+1876-01-01T00:00:00+02:00,1876-08-04,1938-01-01T00:00:00+02:00,cardiovascular_problems,American mayor
+1876-01-01T00:00:00+02:00,1876-12-11,1973-01-01T00:00:00+02:00,cardiovascular_problems,American women's education pioneer president of Radcliffe College 1923-1943.
 1877-01-01T00:00:00+02:00,1877-09-18,1952-01-01T00:00:00+02:00,cardiovascular_problems,Baptist clergyman
+1877-01-01T00:00:00+02:00,1877-07-10,1915-01-01T00:00:00+02:00,accidents_murder_and_war,American racing driver
+1877-01-01T00:00:00+02:00,1877-03-20,1942-01-01T00:00:00+02:00,accidents_murder_and_war,Croatian banker
+1877-01-01T00:00:00+02:00,1877-02-08,1945-01-01T00:00:00+02:00,suicide,German politician
+1877-01-01T00:00:00+02:00,1877-11-22,1930-01-01T00:00:00+02:00,suicide,footballer
+1877-01-01T00:00:00+02:00,1877-07-20,1945-01-01T00:00:00+02:00,cerebral_problems,suffragette women's rights advocate state political party organizer
+1878-01-01T00:00:00+02:00,1878-07-17,1947-01-01T00:00:00+02:00,pneumonia,American actor
+1878-01-01T00:00:00+02:00,1878-03-23,1943-01-01T00:00:00+02:00,cardiovascular_problems,American lawyer
+1878-01-01T00:00:00+02:00,1878-03-13,1945-01-01T00:00:00+02:00,suicide,Austrian chemist
 1878-01-01T00:00:00+02:00,1878-12-11,1911-01-01T00:00:00+02:00,accidents_murder_and_war,American aciator
+1878-01-01T00:00:00+02:00,1878-09-23,1950-01-01T00:00:00+02:00,cerebral_problems,Bandleader
 1878-01-01T00:00:00+02:00,1878-03-13,1955-01-01T00:00:00+02:00,cardiovascular_problems,American artist
 1878-01-01T00:00:00+02:00,1878-04-28,1954-01-01T00:00:00+02:00,cardiovascular_problems,Actor director screenwriter
+1878-01-01T00:00:00+02:00,1878-03-29,1940-01-01T00:00:00+02:00,other_respiratory_problems,Comedian and film actor
+1879-01-01T00:00:00+02:00,{1879-07-25|1879-07-28},1947-01-01T00:00:00+02:00,accidents_murder_and_war,Actor director
 1879-01-01T00:00:00+02:00,1879-01-01T00:00:00+02:00,1962-01-01T00:00:00+02:00,natural_death,U.S. Army officer who served as NYPD Police Commissioner during 1914; began two-year campaign to wipe out the many street gangs active in New York City.
+1879-01-01T00:00:00+02:00,1879-09-17,1930-01-01T00:00:00+02:00,accidents_murder_and_war,Athlete physician and executed murderer
 1879-01-01T00:00:00+02:00,1879-10-15,1967-01-01T00:00:00+02:00,cardiovascular_problems,Actress
+1879-01-01T00:00:00+02:00,1879-08-28,1940-01-01T00:00:00+02:00,cardiovascular_problems,British actor
+1879-01-01T00:00:00+02:00,1879-10-07,1915-01-01T00:00:00+02:00,accidents_murder_and_war,labor activist
 1879-01-01T00:00:00+02:00,1879-06-27,1931-01-01T00:00:00+02:00,accidents_murder_and_war,American make-up artist
 1879-01-01T00:00:00+02:00,1879-01-12,1912-01-01T00:00:00+02:00,accidents_murder_and_war,American aviator
+1879-01-01T00:00:00+02:00,1879-03-12,1919-01-01T00:00:00+02:00,suicide,Austro-hungarian psychoanalyst
 1879-01-01T00:00:00+02:00,1879-09-06,1936-01-01T00:00:00+02:00,cardiovascular_problems,German actor
+1879-01-01T00:00:00+02:00,1879-08-26,1945-01-01T00:00:00+02:00,suicide,German chemist
 1879-01-01T00:00:00+02:00,1879-05-31,1960-01-01T00:00:00+02:00,cardiovascular_problems,Actress
+1880-01-01T00:00:00+02:00,1880-03-02,1932-01-01T00:00:00+02:00,suicide,Swedish businessperson
+1880-01-01T00:00:00+02:00,1880-02-20,1923-01-01T00:00:00+02:00,accidents_murder_and_war,Novelist poet
+1880-01-01T00:00:00+02:00,1880-10-15,1958-01-01T00:00:00+02:00,cancer,British paleontologist
+{1880-01-01T00:00:00+02:00|1881-01-01T00:00:00+02:00},{1880-01-01T00:00:00+02:00|1881-12-14},1942-01-01T00:00:00+02:00,cerebral_problems,American actor screenwriter and film director
 {1880-01-01T00:00:00+02:00|1886-01-01T00:00:00+02:00},{1880-09-18|1886-01-01T00:00:00+02:00},1910-01-01T00:00:00+02:00,accidents_murder_and_war,American performer
+1880-01-01T00:00:00+02:00,1880-01-01T00:00:00+02:00,1955-01-01T00:00:00+02:00,accidents_murder_and_war,American religious leader
+1880-01-01T00:00:00+02:00,1880-08-07,1962-01-01T00:00:00+02:00,cerebral_problems,American philanthropist
 1880-01-01T00:00:00+02:00,1880-09-24,1999-01-01T00:00:00+02:00,natural_death,American supercentenarian
 1880-01-01T00:00:00+02:00,1880-10-19,1946-01-01T00:00:00+02:00,natural_death,Actor
+1881-01-01T00:00:00+02:00,1881-10-25,1971-01-01T00:00:00+02:00,cerebral_problems,Tennis player
+1881-01-01T00:00:00+02:00,{1881-07-21|1881-07-27},1945-01-01T00:00:00+02:00,suicide,German chemist
+1881-01-01T00:00:00+02:00,1881-05-14,1941-01-01T00:00:00+02:00,cerebral_problems,Actor female impersonator
 1881-01-01T00:00:00+02:00,1881-08-14,1912-01-01T00:00:00+02:00,accidents_murder_and_war,American aviation pioneer
+1881-01-01T00:00:00+02:00,1881-11-26,1934-01-01T00:00:00+02:00,suicide,Silent film and stage actor director screenwriter
 1881-01-01T00:00:00+02:00,1881-06-25,1962-01-01T00:00:00+02:00,cardiovascular_problems,American politician
 1882-01-01T00:00:00+02:00,1882-05-10,1958-01-01T00:00:00+02:00,cardiovascular_problems,Actor
+1882-01-01T00:00:00+02:00,1882-04-03,1913-01-01T00:00:00+02:00,accidents_murder_and_war,American cyclist
+1882-01-01T00:00:00+02:00,1882-04-21,1961-01-01T00:00:00+02:00,suicide,American mathematician and physicist
+1882-01-01T00:00:00+02:00,1882-02-28,1923-01-01T00:00:00+02:00,suicide,Austrian psychologist
 1882-01-01T00:00:00+02:00,1882-02-15,1942-01-01T00:00:00+02:00,pneumonia,American actor
 1882-01-01T00:00:00+02:00,1882-10-20,1956-01-01T00:00:00+02:00,cardiovascular_problems,Actor
+1882-01-01T00:00:00+02:00,1882-12-18,1956-01-01T00:00:00+02:00,cancer,American racing driver
 1882-01-01T00:00:00+02:00,1882-09-03,1955-01-01T00:00:00+02:00,cardiovascular_problems,Canadian racehorse owner
 1882-01-01T00:00:00+02:00,1882-01-17,1946-01-01T00:00:00+02:00,cardiovascular_problems,American actor
+1882-01-01T00:00:00+02:00,1882-08-16,1998-01-01T00:00:00+02:00,accidents_murder_and_war,Worlds Second-oldest man
+1883-01-01T00:00:00+02:00,1883-08-12,1938-01-01T00:00:00+02:00,other_respiratory_problems,Actor
 1883-01-01T00:00:00+02:00,1883-05-23,1939-01-01T00:00:00+02:00,cardiovascular_problems,Actor producer screenwriter director
+1883-01-01T00:00:00+02:00,1883-11-15,1967-01-01T00:00:00+02:00,cancer,American aviator
+1883-01-01T00:00:00+02:00,1883-02-22,1940-01-01T00:00:00+02:00,pneumonia,Actress
+1883-01-01T00:00:00+02:00,1883-07-28,1949-01-01T00:00:00+02:00,cerebral_problems,Adolf Hitler's half-sister
+1883-01-01T00:00:00+02:00,1883-01-01,1943-01-01T00:00:00+02:00,suicide,American journalist
+1883-01-01T00:00:00+02:00,1883-09-25,1961-01-01T00:00:00+02:00,cerebral_problems,Physician and American football player and coach
+1883-01-01T00:00:00+02:00,1883-03-19,1957-01-01T00:00:00+02:00,cancer,American surgeon
 1883-01-01T00:00:00+02:00,1883-04-14,1961-01-01T00:00:00+02:00,cardiovascular_problems,Actor
+1883-01-01T00:00:00+02:00,1883-05-28,1966-01-01T00:00:00+02:00,accidents_murder_and_war,Indian activist
+1883-01-01T00:00:00+02:00,1883-04-01,1930-01-01T00:00:00+02:00,cancer,American silent film actor
+1883-01-01T00:00:00+02:00,1883-01-01T00:00:00+02:00,1933-01-01T00:00:00+02:00,accidents_murder_and_war,Organized crime figure
+1884-01-01T00:00:00+02:00,1884-07-23,1950-01-01T00:00:00+02:00,cancer,actor
+1884-01-01T00:00:00+02:00,1884-07-23,1943-01-01T00:00:00+02:00,cancer,British cryptographer
+1884-01-01T00:00:00+02:00,1884-02-01,1955-01-01T00:00:00+02:00,accidents_murder_and_war,American radio sportscaster
 1884-01-01T00:00:00+02:00,1884-08-25,1942-01-01T00:00:00+02:00,cardiovascular_problems,Actor
+1884-01-01T00:00:00+02:00,1884-04-25,1946-01-01T00:00:00+02:00,suicide,American racing driver
 1884-01-01T00:00:00+02:00,1884-06-04,1942-01-01T00:00:00+02:00,cardiovascular_problems,Actor
+1884-01-01T00:00:00+02:00,1884-04-23,1916-01-01T00:00:00+02:00,accidents_murder_and_war,American racing driver
+1884-01-01T00:00:00+02:00,1884-04-17,1915-01-01T00:00:00+02:00,accidents_murder_and_war,American lynching victim
 1884-01-01T00:00:00+02:00,1884-02-22,1934-01-01T00:00:00+02:00,cardiovascular_problems,Actor
+1884-01-01T00:00:00+02:00,1884-03-17,1950-01-01T00:00:00+02:00,cancer,American hunter
 1884-01-01T00:00:00+02:00,1884-03-20,1973-01-01T00:00:00+02:00,natural_death,Actor
+1884-01-01T00:00:00+02:00,1884-12-20,1946-01-01T00:00:00+02:00,accidents_murder_and_war,Dutch journalist and Nazi collaborator
 1884-01-01T00:00:00+02:00,1884-07-10,1949-01-01T00:00:00+02:00,cardiovascular_problems,Director producer actor
+1884-01-01T00:00:00+02:00,1884-04-27,1960-01-01T00:00:00+02:00,pneumonia,American actor
+1884-01-01T00:00:00+02:00,1884-11-19,1931-01-01T00:00:00+02:00,accidents_murder_and_war,Los Angeles mobster
+{1884-01-01T00:00:00+02:00|1885-01-01T00:00:00+02:00},{1884-11-15|1885-11-15},{1936-01-01T00:00:00+02:00|1937-01-01T00:00:00+02:00},pneumonia,{Screenwriter|Scenario writer|Story writer|Story writerScenario writerScreenwriter}
+1885-01-01T00:00:00+02:00,1885-07-29,1955-01-01T00:00:00+02:00,cancer,Silent film actress
+1885-01-01T00:00:00+02:00,1885-10-11,1934-01-01T00:00:00+02:00,pneumonia,Actor director
+1885-01-01T00:00:00+02:00,1885-02-01,1932-01-01T00:00:00+02:00,suicide,Austrian scientist
 1885-01-01T00:00:00+02:00,1885-10-04,1938-01-01T00:00:00+02:00,cardiovascular_problems,Actor
+1885-01-01T00:00:00+02:00,1885-04-15,1935-01-01T00:00:00+02:00,pneumonia,Actor
 1885-01-01T00:00:00+02:00,1885-07-12,1916-01-01T00:00:00+02:00,accidents_murder_and_war,English composer folk music enthusiast and soldier
 1885-01-01T00:00:00+02:00,1885-09-17,1957-01-01T00:00:00+02:00,cardiovascular_problems,Actor
+1885-01-01T00:00:00+02:00,1885-07-23,1935-01-01T00:00:00+02:00,pneumonia,Georigan noble and American businessman
 1885-01-01T00:00:00+02:00,1885-04-01,1949-01-01T00:00:00+02:00,cardiovascular_problems,Actor
 1885-01-01T00:00:00+02:00,1885-10-10,1954-01-01T00:00:00+02:00,cardiovascular_problems,Sportswriter and author
 1885-01-01T00:00:00+02:00,1885-12-22,1949-01-01T00:00:00+02:00,cardiovascular_problems,English bishop
+1886-01-01T00:00:00+02:00,1886-05-25,1947-01-01T00:00:00+02:00,accidents_murder_and_war,Korean politician
 1886-01-01T00:00:00+02:00,1886-04-30,1961-01-01T00:00:00+02:00,natural_death,Actor
+1886-01-01T00:00:00+02:00,1886-12-06,1957-01-01T00:00:00+02:00,other_respiratory_problems,Japanese nationalist intellectual
+1886-01-01T00:00:00+02:00,1886-07-22,1915-01-01T00:00:00+02:00,accidents_murder_and_war,Armenian writer
+1886-01-01T00:00:00+02:00,1886-10-17,1971-01-01T00:00:00+02:00,cancer,American actress
+1886-01-01T00:00:00+02:00,1886-04-14,1953-01-01T00:00:00+02:00,pneumonia,pioneer American cubist painter
+1886-01-01T00:00:00+02:00,1886-12-19,1945-01-01T00:00:00+02:00,accidents_murder_and_war,Dutch aviator
 {1886-01-01T00:00:00+02:00|1911-01-01T00:00:00+02:00},{1886-01-04|1911-10-20},1960-01-01T00:00:00+02:00,cardiovascular_problems,American aviator
 1886-01-01T00:00:00+02:00,1886-12-12,1939-01-01T00:00:00+02:00,cardiovascular_problems,Actor
 1886-01-01T00:00:00+02:00,1886-01-06,1917-01-01T00:00:00+02:00,accidents_murder_and_war,British banker
 1886-01-01T00:00:00+02:00,1886-01-06,1917-01-01T00:00:00+02:00,accidents_murder_and_war,British banker
 {1886-01-01T00:00:00+02:00|1892-01-01T00:00:00+02:00},{1886-10-25|1892-10-25},1972-01-01T00:00:00+02:00,pneumonia,Actor
 {1886-01-01T00:00:00+02:00|1892-01-01T00:00:00+02:00},{1886-10-25|1892-10-25},1972-01-01T00:00:00+02:00,cancer,Actor
+1886-01-01T00:00:00+02:00,1886-02-08,1970-01-01T00:00:00+02:00,cancer,Actor
+1886-01-01T00:00:00+02:00,1886-07-29,1973-01-01T00:00:00+02:00,cerebral_problems,American architect
 1886-01-01T00:00:00+02:00,1886-07-15,1981-01-01T00:00:00+02:00,natural_death,American actor
+1886-01-01T00:00:00+02:00,1886-11-08,1938-01-01T00:00:00+02:00,accidents_murder_and_war,Hungarian politician
+1887-01-01T00:00:00+02:00,1887-04-26,1958-01-01T00:00:00+02:00,cerebral_problems,Actress
 1887-01-01T00:00:00+02:00,1887-12-23,1959-01-01T00:00:00+02:00,cardiovascular_problems,Actor
 1887-01-01T00:00:00+02:00,1887-03-24,1933-01-01T00:00:00+02:00,cardiovascular_problems,American actor
 1887-01-01T00:00:00+02:00,1887-08-15,1957-01-01T00:00:00+02:00,cardiovascular_problems,American historian and author
 1887-01-01T00:00:00+02:00,1887-11-20,1946-01-01T00:00:00+02:00,cardiovascular_problems,Actor
 1887-01-01T00:00:00+02:00,1887-08-05,1972-01-01T00:00:00+02:00,cardiovascular_problems,Actor
+1887-01-01T00:00:00+02:00,1887-01-01T00:00:00+02:00,1919-01-01T00:00:00+02:00,accidents_murder_and_war,New York gang leader and founder of the Marginals
 1887-01-01T00:00:00+02:00,1887-09-18,1944-01-01T00:00:00+02:00,cardiovascular_problems,Italian automobile designer
 1887-01-01T00:00:00+02:00,1887-01-11,1963-01-01T00:00:00+02:00,cardiovascular_problems,Actor
+1887-01-01T00:00:00+02:00,1887-11-23,1969-01-01T00:00:00+02:00,pneumonia,English actor
+1887-01-01T00:00:00+02:00,1887-10-02,1971-01-01T00:00:00+02:00,cardiovascular_problems,Titianic crew member
 1887-01-01T00:00:00+02:00,1887-09-05,1938-01-01T00:00:00+02:00,cardiovascular_problems,Actor
+1887-01-01T00:00:00+02:00,1887-04-30,1943-01-01T00:00:00+02:00,suicide,Actor
+1887-01-01T00:00:00+02:00,1887-03-22,1961-01-01T00:00:00+02:00,cardiovascular_problems,Vaudeville performer comedian musician film actor
+1887-01-01T00:00:00+02:00,1887-08-10,1927-01-01T00:00:00+02:00,pneumonia,American film studio executive
+1888-01-01T00:00:00+02:00,1888-05-13,1912-01-01T00:00:00+02:00,accidents_murder_and_war,Jewish gangster
+1888-01-01T00:00:00+02:00,1888-12-12,1944-01-01T00:00:00+02:00,pneumonia,Physicist inventor
+1888-01-01T00:00:00+02:00,1888-09-18,1938-01-01T00:00:00+02:00,pneumonia,Canadian writer
 1888-01-01T00:00:00+02:00,1888-12-19,1962-01-01T00:00:00+02:00,cardiovascular_problems,American racehorse owner and breeder
 1888-01-01T00:00:00+02:00,1888-04-20,1938-01-01T00:00:00+02:00,cardiovascular_problems,American actor
 1888-01-01T00:00:00+02:00,1888-10-06,1918-01-01T00:00:00+02:00,accidents_murder_and_war,French aviator and fighter pilot
+1888-01-01T00:00:00+02:00,1888-07-16,1987-01-01T00:00:00+02:00,cerebral_problems,Actress and socialite
 1888-01-01T00:00:00+02:00,1888-01-01T00:00:00+02:00,1953-01-01T00:00:00+02:00,cardiovascular_problems,American painter
+1888-01-01T00:00:00+02:00,1888-03-05,1966-01-01T00:00:00+02:00,cerebral_problems,American screenwriter and journalist
 1888-01-01T00:00:00+02:00,1888-03-03,1955-01-01T00:00:00+02:00,cardiovascular_problems,Actor
+1888-01-01T00:00:00+02:00,1888-03-04,1942-01-01T00:00:00+02:00,cancer,Italian actor
+1888-01-01T00:00:00+02:00,1888-01-01T00:00:00+02:00,1909-01-01T00:00:00+02:00,accidents_murder_and_war,Chinese slave girl whose murder instigated the Tong Wars in New York's Chinatown between 1909 and 1910.
+1888-01-01T00:00:00+02:00,1888-08-03,1923-01-01T00:00:00+02:00,pneumonia,Actor film director screenwriter
 1888-01-01T00:00:00+02:00,1888-04-15,1954-01-01T00:00:00+02:00,cardiovascular_problems,Actress
+1888-01-01T00:00:00+02:00,1888-04-27,1917-01-01T00:00:00+02:00,accidents_murder_and_war,Actress
+1888-01-01T00:00:00+02:00,1888-05-06,1972-01-01T00:00:00+02:00,cerebral_problems,Lawyer and racehorse owner/breeder
 1888-01-01T00:00:00+02:00,1888-04-16,1950-01-01T00:00:00+02:00,cardiovascular_problems,Film director
 1888-01-01T00:00:00+02:00,1888-10-21,1931-01-01T00:00:00+02:00,cardiovascular_problems,Swedish wife of Hermann Göring
 1889-01-01T00:00:00+02:00,1889-09-19,1973-01-01T00:00:00+02:00,cardiovascular_problems,Actor
+1889-01-01T00:00:00+02:00,1889-08-31,1962-01-01T00:00:00+02:00,pneumonia,Film editor
 1889-01-01T00:00:00+02:00,1889-10-10,1947-01-01T00:00:00+02:00,cardiovascular_problems,Dutch painter and art forger
+1889-01-01T00:00:00+02:00,1889-01-23,1958-01-01T00:00:00+02:00,cancer,Actor
 1889-01-01T00:00:00+02:00,1889-10-17,1983-01-01T00:00:00+02:00,cardiovascular_problems,Actor
 1889-01-01T00:00:00+02:00,1889-01-01T00:00:00+02:00,1941-01-01T00:00:00+02:00,cardiovascular_problems,American newspaper publisher
 1889-01-01T00:00:00+02:00,1889-11-07,1953-01-01T00:00:00+02:00,cardiovascular_problems,Film director Screenwriter
 1889-01-01T00:00:00+02:00,1889-01-01T00:00:00+02:00,1960-01-01T00:00:00+02:00,cardiovascular_problems,American financier and polo player
+1889-01-01T00:00:00+02:00,1889-05-12,1980-01-01T00:00:00+02:00,cancer,German-born father of Anne and Margot Frank
+1889-01-01T00:00:00+02:00,1889-08-31,2004-01-01T00:00:00+02:00,pneumonia,Puerto Rican supercentenarian
 1889-01-01T00:00:00+02:00,1889-10-03,1944-01-01T00:00:00+02:00,cardiovascular_problems,Actor
+1889-01-01T00:00:00+02:00,1889-05-15,2003-01-01T00:00:00+02:00,pneumonia,Japanese supercentenarian
 1889-01-01T00:00:00+02:00,1889-06-27,1954-01-01T00:00:00+02:00,cardiovascular_problems,Actor
 1889-01-01T00:00:00+02:00,1889-04-06,1968-01-01T00:00:00+02:00,other_respiratory_problems,Film director
+1889-01-01T00:00:00+02:00,1889-12-26,1962-01-01T00:00:00+02:00,cerebral_problems,Russian actor
+1889-01-01T00:00:00+02:00,1889-02-04,1960-01-01T00:00:00+02:00,cerebral_problems,American actor
 1889-01-01T00:00:00+02:00,1889-07-05,1963-01-01T00:00:00+02:00,cardiovascular_problems,French poet novelist dramatist designer boxing manager and filmmaker
+1889-01-01T00:00:00+02:00,1889-12-15,2004-01-01T00:00:00+02:00,natural_death,Spanish racing cyclist
+1889-01-01T00:00:00+02:00,1889-12-04,1955-01-01T00:00:00+02:00,cerebral_problems,Actor director
+1889-01-01T00:00:00+02:00,1889-03-30,1947-01-01T00:00:00+02:00,suicide,1930s-1940's character actor
+1889-01-01T00:00:00+02:00,1889-06-24,1923-01-01T00:00:00+02:00,accidents_murder_and_war,American racing driver
+1889-01-01T00:00:00+02:00,1889-03-29,1951-01-01T00:00:00+02:00,pneumonia,Actor
+1889-01-01T00:00:00+02:00,1889-07-28,1948-01-01T00:00:00+02:00,cancer,American mayor
 1889-01-01T00:00:00+02:00,1889-11-19,1966-01-01T00:00:00+02:00,cardiovascular_problems,Actor singer dancer
+1889-01-01T00:00:00+02:00,1889-02-23,1975-01-01T00:00:00+02:00,cancer,British actor
+1890-01-01T00:00:00+02:00,1890-03-14,1949-01-01T00:00:00+02:00,cerebral_problems,Film director screenwriter and actor
+1890-01-01T00:00:00+02:00,{1890-06-22|1890-07-22},1995-01-01T00:00:00+02:00,pneumonia,Philanthropist and socialite
 1890-01-01T00:00:00+02:00,1890-05-15,1956-01-01T00:00:00+02:00,cardiovascular_problems,Australian activist
 1890-01-01T00:00:00+02:00,1890-06-16,1965-01-01T00:00:00+02:00,cardiovascular_problems,silent film comedian
+1890-01-01T00:00:00+02:00,1890-05-02,1966-01-01T00:00:00+02:00,pneumonia,Actress gossip columnist radio personality
 1890-01-01T00:00:00+02:00,1890-11-01,1962-01-01T00:00:00+02:00,cardiovascular_problems,American actor
+1890-01-01T00:00:00+02:00,1890-03-05,1938-01-01T00:00:00+02:00,pneumonia,Actor
 1890-01-01T00:00:00+02:00,1890-07-27,1976-01-01T00:00:00+02:00,cardiovascular_problems,American stage and film actress
 1890-01-01T00:00:00+02:00,1890-06-12,1978-01-01T00:00:00+02:00,natural_death,American actor
 1890-01-01T00:00:00+02:00,1890-03-27,1926-01-01T00:00:00+02:00,accidents_murder_and_war,American aviation pioneer
 1890-01-01T00:00:00+02:00,1890-12-25,1949-01-01T00:00:00+02:00,cardiovascular_problems,American cartoonist
+1890-01-01T00:00:00+02:00,1890-07-20,{0014-01-01T00:00:00+02:00|1966-01-01T00:00:00+02:00},cerebral_problems,American character actress
 1890-01-01T00:00:00+02:00,1890-06-01,1949-01-01T00:00:00+02:00,cardiovascular_problems,Actor
+1890-01-01T00:00:00+02:00,1890-04-20,1971-01-01T00:00:00+02:00,cerebral_problems,American actor
+1890-01-01T00:00:00+02:00,1890-03-07,1974-01-01T00:00:00+02:00,other_respiratory_problems,Norwegian scientist
 1890-01-01T00:00:00+02:00,1890-09-09,1980-01-01T00:00:00+02:00,cancer,United States entrepreneur and businessman
 1890-01-01T00:00:00+02:00,1890-09-09,1980-01-01T00:00:00+02:00,pneumonia,United States entrepreneur and businessman
+1891-01-01T00:00:00+02:00,1891-06-18,1946-01-01T00:00:00+02:00,cancer,Actress
 1891-01-01T00:00:00+02:00,1891-02-09,1958-01-01T00:00:00+02:00,other_respiratory_problems,Actor
+1891-01-01T00:00:00+02:00,1891-11-07,1976-01-01T00:00:00+02:00,cerebral_problems,Actor
 1891-01-01T00:00:00+02:00,1891-08-28,1969-01-01T00:00:00+02:00,natural_death,American actor
+{1891-01-01T00:00:00+02:00|1895-01-01T00:00:00+02:00},{1891-08-03|1895-08-03},1941-01-01T00:00:00+02:00,pneumonia,American actor
+1891-01-01T00:00:00+02:00,1891-07-05,1987-01-01T00:00:00+02:00,suicide,American biochemist
+1891-01-01T00:00:00+02:00,1891-12-10,1920-01-01T00:00:00+02:00,accidents_murder_and_war,American racing driver
 1891-01-01T00:00:00+02:00,1891-03-12,1954-01-01T00:00:00+02:00,pneumonia,automobile industry executive
 1891-01-01T00:00:00+02:00,1891-10-15,1971-01-01T00:00:00+02:00,cardiovascular_problems,American animator
 1891-01-01T00:00:00+02:00,1891-01-01T00:00:00+02:00,1962-01-01T00:00:00+02:00,accidents_murder_and_war,American businessman
+1891-01-01T00:00:00+02:00,1891-04-15,1923-01-01T00:00:00+02:00,accidents_murder_and_war,American actor
+1891-01-01T00:00:00+02:00,1891-01-14,1938-01-01T00:00:00+02:00,pneumonia,American actor
+1891-01-01T00:00:00+02:00,1891-08-03,1923-01-01T00:00:00+02:00,accidents_murder_and_war,AMerican mobster
+1891-01-01T00:00:00+02:00,1891-03-10,1984-01-01T00:00:00+02:00,cancer,American politician
+1891-01-01T00:00:00+02:00,1891-05-25,1973-01-01T00:00:00+02:00,pneumonia,FBI agent
+{1891-01-01T00:00:00+02:00|1894-01-01T00:00:00+02:00},{1891-03-26|1894-03-26},1962-01-01T00:00:00+02:00,cancer,Actor
+1891-01-01T00:00:00+02:00,1891-05-19,1957-01-01T00:00:00+02:00,cancer,Wall Street stockbroker
+1891-01-01T00:00:00+02:00,1891-03-21,1966-01-01T00:00:00+02:00,suicide,Actor
 1892-01-01T00:00:00+02:00,1892-01-01T00:00:00+02:00,1951-01-01T00:00:00+02:00,cardiovascular_problems,Industrialist/Entrepreneur
+1892-01-01T00:00:00+02:00,1892-01-14,1992-01-01T00:00:00+02:00,pneumonia,Film producer
 1892-01-01T00:00:00+02:00,1892-01-21,1950-01-01T00:00:00+02:00,cardiovascular_problems,Actor
+1892-01-01T00:00:00+02:00,1892-01-26,1978-01-01T00:00:00+02:00,cancer,Actress
+1892-01-01T00:00:00+02:00,1892-09-04,1979-01-01T00:00:00+02:00,suicide,Producer director narrator
 1892-01-01T00:00:00+02:00,1892-10-25,{1941-01-01T00:00:00+02:00|1970-01-01T00:00:00+02:00},cardiovascular_problems,Vaudeville performers
 1892-01-01T00:00:00+02:00,1892-01-04,1922-01-01T00:00:00+02:00,accidents_murder_and_war,American racing driver
 1892-01-01T00:00:00+02:00,1892-01-04,1922-01-01T00:00:00+02:00,accidents_murder_and_war,American racing driver
 1892-01-01T00:00:00+02:00,1892-04-08,1973-01-01T00:00:00+02:00,cardiovascular_problems,Actress
+1892-01-01T00:00:00+02:00,1892-01-17,1949-01-01T00:00:00+02:00,cerebral_problems,Comedian
+1892-01-01T00:00:00+02:00,1892-01-05,1955-01-01T00:00:00+02:00,cancer,Japanese bureaucrat cabinet minister
 1892-01-01T00:00:00+02:00,1892-12-31,1955-01-01T00:00:00+02:00,cardiovascular_problems,American actor
 1892-01-01T00:00:00+02:00,1892-12-31,1963-01-01T00:00:00+02:00,cardiovascular_problems,American actor
 1892-01-01T00:00:00+02:00,1892-05-16,1937-01-01T00:00:00+02:00,cardiovascular_problems,Actor
+1892-01-01T00:00:00+02:00,1892-09-11,1967-01-01T00:00:00+02:00,cancer,Actor
+1892-01-01T00:00:00+02:00,1892-01-01T00:00:00+02:00,1914-01-01T00:00:00+02:00,accidents_murder_and_war,leader of the Jimmy Curley Gang
+1892-01-01T00:00:00+02:00,1892-04-08,1979-01-01T00:00:00+02:00,cerebral_problems,Actress
 1892-01-01T00:00:00+02:00,1892-01-01T00:00:00+02:00,1984-01-01T00:00:00+02:00,natural_death,Engineer
 1892-01-01T00:00:00+02:00,1892-02-27,1983-01-01T00:00:00+02:00,pneumonia,Character actor
 1892-01-01T00:00:00+02:00,1892-02-27,1983-01-01T00:00:00+02:00,cancer,Character actor
+1892-01-01T00:00:00+02:00,1892-07-29,1984-01-01T00:00:00+02:00,cardiovascular_problems,Actor
 1892-01-01T00:00:00+02:00,1892-09-17,1977-01-01T00:00:00+02:00,cardiovascular_problems,American writer
+1892-01-01T00:00:00+02:00,1892-10-18,1941-01-01T00:00:00+02:00,accidents_murder_and_war,Croatian Zionist
+1893-01-01T00:00:00+02:00,1893-03-06,1940-01-01T00:00:00+02:00,suicide,Film director
+1893-01-01T00:00:00+02:00,1893-11-09,1948-01-01T00:00:00+02:00,suicide,English inventor & spy
+1893-01-01T00:00:00+02:00,1893-05-26,1957-01-01T00:00:00+02:00,cancer,Actress artists' model and dancer
+1893-01-01T00:00:00+02:00,1893-11-14,1962-01-01T00:00:00+02:00,suicide,American racing driver
+1893-01-01T00:00:00+02:00,1893-03-29,1942-01-01T00:00:00+02:00,accidents_murder_and_war,Physician
 1893-01-01T00:00:00+02:00,1893-03-28,1971-01-01T00:00:00+02:00,cardiovascular_problems,American film executive
 1893-01-01T00:00:00+02:00,1893-01-08,1958-01-01T00:00:00+02:00,cardiovascular_problems,Hungarian architect
+1893-01-01T00:00:00+02:00,1893-09-28,1956-01-01T00:00:00+02:00,cancer,American businessman
+1893-01-01T00:00:00+02:00,1893-05-04,1974-01-01T00:00:00+02:00,cancer,American actor
 {1893-01-01T00:00:00+02:00|1894-01-01T00:00:00+02:00},{1893-07-11|1894-07-11},{1932-01-01T00:00:00+02:00|1933-01-01T00:00:00+02:00},accidents_murder_and_war,American businessman
 1893-01-01T00:00:00+02:00,1893-11-02,1942-01-01T00:00:00+02:00,cardiovascular_problems,American politician
 1893-01-01T00:00:00+02:00,1893-07-18,1949-01-01T00:00:00+02:00,cardiovascular_problems,Actor
+1893-01-01T00:00:00+02:00,1893-01-01T00:00:00+02:00,1922-01-01T00:00:00+02:00,accidents_murder_and_war,New York gang leader and labor racketeer
+1893-01-01T00:00:00+02:00,1893-01-28,1981-01-01T00:00:00+02:00,cardiovascular_problems,American theatre director
 1893-01-01T00:00:00+02:00,1893-07-24,1970-01-01T00:00:00+02:00,cardiovascular_problems,Activist
+1893-01-01T00:00:00+02:00,1893-10-14,1993-01-01T00:00:00+02:00,cardiovascular_problems,Actor
 {1893-01-01T00:00:00+02:00|1895-01-01T00:00:00+02:00},{1893-06-09|1895-06-09},1936-01-01T00:00:00+02:00,cardiovascular_problems,Actress
+1893-01-01T00:00:00+02:00,1893-12-07,1968-01-01T00:00:00+02:00,pneumonia,Actress
 1893-01-01T00:00:00+02:00,1893-10-20,1940-01-01T00:00:00+02:00,cardiovascular_problems,Actor comedian director writer
+1893-01-01T00:00:00+02:00,1893-04-17,1967-01-01T00:00:00+02:00,cancer,American test pilot
+1893-01-01T00:00:00+02:00,1893-05-09,1947-01-01T00:00:00+02:00,cancer,Psychologist
+1893-01-01T00:00:00+02:00,1893-07-22,1990-01-01T00:00:00+02:00,cancer,American psychiatrist
+1894-01-01T00:00:00+02:00,1894-06-28,1966-01-01T00:00:00+02:00,cancer,American political activist
+1894-01-01T00:00:00+02:00,1894-02-14,1974-01-01T00:00:00+02:00,cancer,comedian vaudeville performer and radio television and film actor
+1894-01-01T00:00:00+02:00,1894-07-28,1969-01-01T00:00:00+02:00,cardiovascular_problems,Founder of the Hamilton Standard Company
 1894-01-01T00:00:00+02:00,1894-02-07,1950-01-01T00:00:00+02:00,cardiovascular_problems,American lawyer
 1894-01-01T00:00:00+02:00,1894-09-22,1966-01-01T00:00:00+02:00,cardiovascular_problems,Actress
 1894-01-01T00:00:00+02:00,1894-08-01,1956-01-01T00:00:00+02:00,cardiovascular_problems,Actor
+1894-01-01T00:00:00+02:00,1894-01-01T00:00:00+02:00,1944-01-01T00:00:00+02:00,accidents_murder_and_war,Polish politician social worker activist and diplomat
 1894-01-01T00:00:00+02:00,1894-09-14,1964-01-01T00:00:00+02:00,cardiovascular_problems,Actor
+1894-01-01T00:00:00+02:00,1894-02-01,1973-01-01T00:00:00+02:00,cancer,American film director
+1894-01-01T00:00:00+02:00,1894-06-08,1932-01-01T00:00:00+02:00,accidents_murder_and_war,screenwriter
+1894-01-01T00:00:00+02:00,1894-07-23,1975-01-01T00:00:00+02:00,cardiovascular_problems,Actor
+1894-01-01T00:00:00+02:00,1894-08-10,1936-01-01T00:00:00+02:00,accidents_murder_and_war,Actor film director
+1894-01-01T00:00:00+02:00,1894-09-23,1968-01-01T00:00:00+02:00,pneumonia,American film director producer adn screenwriter
+1894-01-01T00:00:00+02:00,1894-03-05,1950-01-01T00:00:00+02:00,cancer,Actress
+1894-01-01T00:00:00+02:00,1894-09-12,1971-01-01T00:00:00+02:00,cerebral_problems,Actor
 1894-01-01T00:00:00+02:00,1894-07-25,1974-01-01T00:00:00+02:00,other_respiratory_problems,Actor
+1894-01-01T00:00:00+02:00,1894-01-01T00:00:00+02:00,1941-01-01T00:00:00+02:00,accidents_murder_and_war,Croatian businessman and philanthropist
+1894-01-01T00:00:00+02:00,1894-06-28,1988-01-01T00:00:00+02:00,pneumonia,American actor
+1894-01-01T00:00:00+02:00,{1894-05-02|1894-05-26},1957-01-01T00:00:00+02:00,pneumonia,Actress producer
+1894-01-01T00:00:00+02:00,1894-09-08,1974-01-01T00:00:00+02:00,cardiovascular_problems,American actor
 1894-01-01T00:00:00+02:00,1894-10-26,1981-01-01T00:00:00+02:00,cardiovascular_problems,American newspaper publisher
+1894-01-01T00:00:00+02:00,1894-03-21,1941-01-01T00:00:00+02:00,accidents_murder_and_war,Croatian composer
 1895-01-01T00:00:00+02:00,1895-12-05,1973-01-01T00:00:00+02:00,cardiovascular_problems,American businessman
+1895-01-01T00:00:00+02:00,1895-11-14,2010-01-01T00:00:00+02:00,pneumonia,American supercentenarian
 1895-01-01T00:00:00+02:00,1895-07-26,1964-01-01T00:00:00+02:00,cardiovascular_problems,Actress comedienne
+1895-01-01T00:00:00+02:00,1895-09-18,2009-01-01T00:00:00+02:00,cardiovascular_problems,Former civil engineer
+1895-01-01T00:00:00+02:00,1895-10-03,1925-01-01T00:00:00+02:00,accidents_murder_and_war,russian writer
 1895-01-01T00:00:00+02:00,1895-03-11,1955-01-01T00:00:00+02:00,cardiovascular_problems,Actor
+1895-01-01T00:00:00+02:00,1895-06-10,1952-01-01T00:00:00+02:00,cancer,Actor
+1895-01-01T00:00:00+02:00,1895-10-21,1958-01-01T00:00:00+02:00,cancer,Actress
 1895-01-01T00:00:00+02:00,1895-10-28,1969-01-01T00:00:00+02:00,cardiovascular_problems,American actor
+1895-01-01T00:00:00+02:00,1895-01-01T00:00:00+02:00,1927-01-01T00:00:00+02:00,accidents_murder_and_war,Actress model
+1895-01-01T00:00:00+02:00,1895-05-18,1934-01-01T00:00:00+02:00,accidents_murder_and_war,Nicaraguan revolutionary
+1895-01-01T00:00:00+02:00,1895-08-25,1987-01-01T00:00:00+02:00,pneumonia,American businessman
+1895-01-01T00:00:00+02:00,1895-10-04,1966-01-01T00:00:00+02:00,cancer,Actor and filmmaker
 1895-01-01T00:00:00+02:00,1895-02-16,1963-01-01T00:00:00+02:00,cardiovascular_problems,Actor
 1895-01-01T00:00:00+02:00,1895-06-05,1972-01-01T00:00:00+02:00,cardiovascular_problems,American actor
 1896-01-01T00:00:00+02:00,1896-01-21,1973-01-01T00:00:00+02:00,other_respiratory_problems,Actor
+1896-01-01T00:00:00+02:00,1896-12-30,1963-01-01T00:00:00+02:00,cancer,Actor
+1896-01-01T00:00:00+02:00,1896-01-01T00:00:00+02:00,1961-01-01T00:00:00+02:00,cancer,Owner of Ma Mon Luk
+{1896-01-01T00:00:00+02:00|1899-01-01T00:00:00+02:00},{1896-06-13|1899-06-13},1963-01-01T00:00:00+02:00,cancer,Actor
 1896-01-01T00:00:00+02:00,1896-01-04,1943-01-01T00:00:00+02:00,accidents_murder_and_war,American test pilot
+1896-01-01T00:00:00+02:00,1896-12-16,1984-01-01T00:00:00+02:00,pneumonia,Romanov impostor
 1896-01-01T00:00:00+02:00,1896-11-19,1967-01-01T00:00:00+02:00,cardiovascular_problems,Austrian actor
+1896-01-01T00:00:00+02:00,1896-08-30,1983-01-01T00:00:00+02:00,pneumonia,Actor
+1896-01-01T00:00:00+02:00,1896-12-31,1987-01-01T00:00:00+02:00,pneumonia,Actress author singer
+1896-01-01T00:00:00+02:00,1896-08-30,1963-01-01T00:00:00+02:00,cancer,Artist descendant of the imperial clan of the Qing Dynasty
+1896-01-01T00:00:00+02:00,1896-01-01T00:00:00+02:00,1937-01-01T00:00:00+02:00,accidents_murder_and_war,Soviet defector
+{1896-01-01T00:00:00+02:00|1898-01-01T00:00:00+02:00},{1896-04-29|1898-04-29},1969-01-01T00:00:00+02:00,cardiovascular_problems,American actor
+1896-01-01T00:00:00+02:00,1896-01-26,1960-01-01T00:00:00+02:00,cancer,American singer
+1896-01-01T00:00:00+02:00,1896-06-18,1986-01-01T00:00:00+02:00,cerebral_problems,Actress
+1896-01-01T00:00:00+02:00,1896-04-27,1937-01-01T00:00:00+02:00,suicide,American organic chemist
+1896-01-01T00:00:00+02:00,{1896-02-02|1896-09-02},1967-01-01T00:00:00+02:00,cerebral_problems,American actor-musician
+1897-01-01T00:00:00+02:00,1897-07-11,1973-01-01T00:00:00+02:00,cardiovascular_problems,Dermatologist businessman
+1897-01-01T00:00:00+02:00,1897-07-18,1937-01-01T00:00:00+02:00,pneumonia,British racing driver
+1897-01-01T00:00:00+02:00,1897-08-31,1975-01-01T00:00:00+02:00,cancer,actor
 1897-01-01T00:00:00+02:00,1897-11-08,1980-01-01T00:00:00+02:00,cardiovascular_problems,Social activist
 1897-01-01T00:00:00+02:00,{1897-08-08|1897-10-08},1987-01-01T00:00:00+02:00,natural_death,film theatre director
+1897-01-01T00:00:00+02:00,1897-02-25,1990-01-01T00:00:00+02:00,cardiovascular_problems,American actor
+1897-01-01T00:00:00+02:00,1897-12-24,2013-01-01T00:00:00+02:00,pneumonia,Japanese supercentenarian
 1897-01-01T00:00:00+02:00,1897-08-12,1938-01-01T00:00:00+02:00,cardiovascular_problems,screenwriter
+1897-01-01T00:00:00+02:00,1897-01-03,1961-01-01T00:00:00+02:00,cancer,Actress producer screenwriter
+{1897-01-01T00:00:00+02:00|1898-01-01T00:00:00+02:00},{1897-08-02|1898-01-01T00:00:00+02:00},1939-01-01T00:00:00+02:00,cardiovascular_problems,American actor and director
 1897-01-01T00:00:00+02:00,1897-11-17,1968-01-01T00:00:00+02:00,other_respiratory_problems,Actor
+1897-01-01T00:00:00+02:00,1897-06-16,1948-01-01T00:00:00+02:00,accidents_murder_and_war,American actor
+1897-01-01T00:00:00+02:00,1897-10-02,1962-01-01T00:00:00+02:00,cancer,Italian mobster
 {1897-01-01T00:00:00+02:00|1899-01-01T00:00:00+02:00},{1897-07-10|1899-07-10},1936-01-01T00:00:00+02:00,cardiovascular_problems,Actor
 1897-01-01T00:00:00+02:00,1897-03-08,1970-01-01T00:00:00+02:00,cardiovascular_problems,American baseball player
 1897-01-01T00:00:00+02:00,1897-08-05,1954-01-01T00:00:00+02:00,cardiovascular_problems,American opera singer
+1897-01-01T00:00:00+02:00,1897-06-24,1992-01-01T00:00:00+02:00,cardiovascular_problems,American businessman
+1897-01-01T00:00:00+02:00,1897-02-15,1943-01-01T00:00:00+02:00,accidents_murder_and_war,Dutch gymnast
+1897-01-01T00:00:00+02:00,1897-07-08,1970-01-01T00:00:00+02:00,cancer,American racehorse owner
+1897-01-01T00:00:00+02:00,1897-06-19,1975-01-01T00:00:00+02:00,cancer,American actor and comedian
 1897-01-01T00:00:00+02:00,1897-11-27,1969-01-01T00:00:00+02:00,cardiovascular_problems,Italian-born American mobster
+1897-01-01T00:00:00+02:00,1897-02-19,1931-01-01T00:00:00+02:00,pneumonia,Actress
+1897-01-01T00:00:00+02:00,1897-05-18,1991-01-01T00:00:00+02:00,cardiovascular_problems,Film director
+1897-01-01T00:00:00+02:00,1897-11-22,1940-01-01T00:00:00+02:00,suicide,Screenwriter novelist film director
 1897-01-01T00:00:00+02:00,1897-11-23,1948-01-01T00:00:00+02:00,accidents_murder_and_war,Nazi doctor and war criminal
 1898-01-01T00:00:00+02:00,1898-08-16,1971-01-01T00:00:00+02:00,cardiovascular_problems,American farmer
 1898-01-01T00:00:00+02:00,1898-08-10,1979-01-01T00:00:00+02:00,cardiovascular_problems,American actor
 1898-01-01T00:00:00+02:00,1898-10-28,1951-01-01T00:00:00+02:00,cardiovascular_problems,Animator
+1898-01-01T00:00:00+02:00,1898-05-10,1941-01-01T00:00:00+02:00,suicide,German biochemist
+1898-01-01T00:00:00+02:00,1898-11-08,1937-01-01T00:00:00+02:00,accidents_murder_and_war,Actress
+1898-01-01T00:00:00+02:00,1898-10-17,1991-01-01T00:00:00+02:00,pneumonia,Actress
 1898-01-01T00:00:00+02:00,1898-11-04,1978-01-01T00:00:00+02:00,cardiovascular_problems,provided the original voice of the Warner Brothers animation character Porky Pig. Actually had a stutter which became one of the characters trademarks
+1898-01-01T00:00:00+02:00,1898-06-15,1936-01-01T00:00:00+02:00,accidents_murder_and_war,American aviator
+1898-01-01T00:00:00+02:00,1898-06-30,1985-01-01T00:00:00+02:00,cancer,American film and television actor
 1898-01-01T00:00:00+02:00,1898-01-01T00:00:00+02:00,1945-01-01T00:00:00+02:00,cardiovascular_problems,Indian politician
+1898-01-01T00:00:00+02:00,{1898-02-28|1898-06-01},1992-01-01T00:00:00+02:00,cerebral_problems,American actress
+1898-01-01T00:00:00+02:00,1898-12-14,1980-01-01T00:00:00+02:00,cancer,American actor and singer
+1898-01-01T00:00:00+02:00,1898-04-04,1940-01-01T00:00:00+02:00,cerebral_problems,Actress
+1898-01-01T00:00:00+02:00,1898-04-19,1973-01-01T00:00:00+02:00,pneumonia,American actor
 1898-01-01T00:00:00+02:00,1898-07-04,1965-01-01T00:00:00+02:00,cardiovascular_problems,American actor
+1899-01-01T00:00:00+02:00,1899-07-22,1978-01-01T00:00:00+02:00,accidents_murder_and_war,False Japanese longegevity claim
 1899-01-01T00:00:00+02:00,1899-04-02,1961-01-01T00:00:00+02:00,cardiovascular_problems,Communist politician
 1899-01-01T00:00:00+02:00,1899-07-17,1986-01-01T00:00:00+02:00,cardiovascular_problems,Actor dancer
+1899-01-01T00:00:00+02:00,1899-12-02,1952-01-01T00:00:00+02:00,accidents_murder_and_war,British racing driver
+1899-01-01T00:00:00+02:00,1899-06-27,1981-01-01T00:00:00+02:00,cerebral_problems,American businessman
 1899-01-01T00:00:00+02:00,1899-11-11,1983-01-01T00:00:00+02:00,cardiovascular_problems,Actor
+1899-01-01T00:00:00+02:00,1899-02-06,1968-01-01T00:00:00+02:00,accidents_murder_and_war,Actor
 1899-01-01T00:00:00+02:00,1899-09-01,1976-01-01T00:00:00+02:00,other_respiratory_problems,Actor
 1899-01-01T00:00:00+02:00,1899-03-15,1979-01-01T00:00:00+02:00,other_respiratory_problems,Actor
 1899-01-01T00:00:00+02:00,1899-08-29,1973-01-01T00:00:00+02:00,other_respiratory_problems,American actor
+1899-01-01T00:00:00+02:00,1899-03-27,1983-01-01T00:00:00+02:00,cardiovascular_problems,American actress
+1899-01-01T00:00:00+02:00,1899-05-06,1969-01-01T00:00:00+02:00,cerebral_problems,Bandleader
+1899-01-01T00:00:00+02:00,1899-11-21,1967-01-01T00:00:00+02:00,pneumonia,Actress
+1899-01-01T00:00:00+02:00,1899-06-11,1975-01-01T00:00:00+02:00,pneumonia,American University President
+1899-01-01T00:00:00+02:00,1899-02-15,{1996-01-01T00:00:00+02:00|1997-01-01T00:00:00+02:00},cerebral_problems,American philanthropist
+1899-01-01T00:00:00+02:00,1899-07-28,1977-01-01T00:00:00+02:00,accidents_murder_and_war,Australian artist
+1899-01-01T00:00:00+02:00,1899-09-09,1984-01-01T00:00:00+02:00,other_respiratory_problems,Actor
+1899-01-01T00:00:00+02:00,1899-12-25,1957-01-01T00:00:00+02:00,cancer,Actor
+1899-01-01T00:00:00+02:00,1899-07-01,1962-01-01T00:00:00+02:00,cancer,English-American stage and film actor
