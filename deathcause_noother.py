@@ -95,7 +95,8 @@ if __name__ == "__main__":
             data = process_csv(padded_year, header)
             for person in data:
                 if 'deathCause_label' in person and 'deathYear' in person and 'description' in person: 
-                    for deathCause in person['deathCause_label'][1:-1].split('|'):
+                    causes = person['deathCause_label'][1:-1].split('|') if '{' in person['deathCause_label'] else [person['deathCause_label']]
+                    for deathCause in causes:
                         if re.search('(cancer|tumor|leukemia|\w+oma)($|\W)', deathCause, flags=re.I):
                             person['deathCause_label'] = 'cancer'
                         elif 'bronch' in deathCause.lower() or 'asthma' in deathCause.lower() or 'lung' in deathCause.lower() or 'pulmon' in deathCause.lower() or 'respirat' in deathCause.lower() or 'tubercolosis' in deathCause.lower():
@@ -133,7 +134,8 @@ if __name__ == "__main__":
             data = process_csv(padded_year, header)
             for person in data:
                 if 'deathCause_label' in person and 'description' in person:
-                     for deathCause in person['deathCause_label'][1:-1].split('|'):
+                    causes = person['deathCause_label'][1:-1].split('|') if '{' in person['deathCause_label'] else [person['deathCause_label']]
+                    for deathCause in causes:
                         if re.search('(cancer|tumor|leukemia|\w+oma)($|\W)', deathCause, flags=re.I):
                             person['deathCause_label'] = 'cancer'
                         elif 'bronch' in deathCause.lower() or 'asthma' in deathCause.lower() or 'lung' in deathCause.lower() or 'pulmon' in deathCause.lower() or 'respirat' in deathCause.lower() or 'tubercolosis' in deathCause.lower():

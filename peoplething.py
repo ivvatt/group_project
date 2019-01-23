@@ -43,7 +43,7 @@ def process_csv(file, header):
     if not stdin:
         fd.close()
     return out
-'''
+
 #selecting data for the middle ages
 if __name__ == "__main__":
     header = read_header()
@@ -161,3 +161,5 @@ with open('all_years.csv', 'w', newline='', encoding='utf-8') as file:
     filewriter.writerow(['birthYear', "birthDate", "deathYear", "deathCause_label", "profession"])
     for person in all_years:
         filewriter.writerow([person['birthYear'], person['birthDate'], person['deathYear'], person['deathCause_label'], person['description']])
+        '''
+
