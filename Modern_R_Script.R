@@ -31,7 +31,7 @@ total_eras$percent <- Counts$n / sum(Counts$n)
 #Plot the percentages as a bar chart 
 ggplot()+
   #stat= 'identity' allows for the y variable mapped in the aesthetic to be computed
-  geom_bar(data=total_eras, mapping=aes(x= deathCause_label, y= percent, color= time_period, fill= time_period), stat= 'identity')+
+  geom_bar(data=total_eras, mapping=aes(x= deathCause_label, y= percent, color= time_period, fill= time_period), stat= 'identity', position= 'dodge')+
   #Angle the labels to 70 degrees so that they become legible
   theme(axis.text.x.bottom = element_text(angle=70, hjust = 1))+
   #Make a title as well as a new x and y axis label
@@ -42,17 +42,3 @@ ggplot()+
 
 
 
-#table(deathCause_label)
-
-
-
-
-
-
-
-
-#cancer <- modern %>% filter(str_detect(deathCause_label, '(?i)cancer'))
-#carcinoma <- modern %>% filter(str_detect(deathCause_label, '(?i)oma$'))
-#leukemia <- modern %>% filter(str_detect(deathCause_label, '(?i)leukemia'))
-#suicide <- modern %>% filter(str_detect(deathCause_label, '(?i)suicide'))
-#cerebral <- modern %>% filter(str_detect(deathCause_label, '(?i)cerebral'))
