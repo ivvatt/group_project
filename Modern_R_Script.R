@@ -8,7 +8,7 @@ Counts1 <- count(modern, deathCause_label)
 Counts1$percent <- (Counts1$n / sum(Counts1$n))
 #Add a new column idicating the factors' time periods, which are all "modern"
 Counts1$time_period <- c("Time_Period")
-Counts1$time_period <- "Modern"
+Counts1$time_period <- "Modern" 
 
 industrial <- read.csv("enlight_industrial_death_noother.csv", stringsAsFactors = TRUE)
 #View(industrial)
