@@ -35,7 +35,7 @@ ggplot() +
   theme(legend.position = "none")
 
 # merging other dis acting sets
-actingotherdis <- rbind(actors_copy, actresses_copy)
+actingotherdis <- rbind(actors, actresses)
 
 # creating proportions for acting, new dataset.
 actingperc <- count(actingotherdis, deathCause_label)
@@ -71,7 +71,7 @@ ggplot() +
 poliperc <- count(politicians, deathCause_label)
 poliperc$perc <- poliperc$n / sum(poliperc$n)
 poliperc$Profession <- c("Profession")
-poliperc$Profession <- "Civil_Service"
+poliperc$Profession <- "Civil Service"
 
 ggplot() +
   geom_bar(data = poliperc, aes(x = deathCause_label, y=perc, color = deathCause_label, fill = deathCause_label), stat='identity') +
@@ -97,13 +97,14 @@ ggplot() +
 
 # combined chart of all professions for easy comparison.
 
-all_professions <- rbind(actingperc, writersperc, poliperc, busiperc)
+all_professions <- rbind(actingperc, writersperc, poliperc, busiperc) %>% mutate(deathCause_label = str_replace_all(deathCause_label, '_', ' '))
 
 ggplot()+
   geom_bar(data = all_professions, mapping = aes(x= deathCause_label, y = perc, color = Profession, fill = Profession), stat = 'identity', position = 'dodge', alpha = 0.7) +
-  theme(axis.text.x = element_text(angle = 70, hjust = 1)) +
   labs(title = 'Most Common Causes of Death across Professions', x = 'Cause of Death', y = 'Percentage of Deaths', fill = 'Profession', color = 'Profession') +
-  scale_y_continuous(labels = scales::percent_format())
+  scale_y_continuous(labels = scales::percent_format()) +
+  theme(axis.text.y.left = element_text(size = 12)) +
+  coord_flip()
   
   
   
